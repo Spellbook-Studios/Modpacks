@@ -198,7 +198,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.0.0?token=GHSAT0AAAAAAB5DJL57DMISVR5IWA2Z6VAEZEIPMYA
+  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.0.0
   text_border = 0
   case_mode = normal
   source_mode = web

@@ -1,12 +1,12 @@
 name = "Wynntills Ultimate"
 author = "Spellbook Studios"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "54292202cd6d97885503bbb0e800b24064e16613a56d309065242f6f5a14a062"
+hash = "61f7f84b9221693c5711e8dd74ef5ab2a02ca5651ac45c8c6de4d52bcf61c5dc"
 
 [versions]
 minecraft = "1.19.4"
