@@ -55,7 +55,75 @@ Coming when I have time to use my actually good pc ;D
 ## Modlist
 <details>
 <summary>Modlist</summary>
-<ul>
+Searchables
 
-</ul>
+Iris Shaders
+
+Mod Menu
+
+No Telemetry
+
+In-Game Account Switcher
+
+Sodium
+
+Better Fps - Render Distance[Fabric]
+
+Controlling
+
+Continuity
+
+Auudio
+
+Blur (Fabric)
+
+Dynamic FPS
+
+Konkrete
+
+Starlight (Fabric)
+
+3D Skin Layers
+
+FancyMenu
+
+Cloth Config API
+
+Fabrishot
+
+Entity Culling
+
+FerriteCore
+
+Wynntils
+
+Dynamic Sound Filters
+
+Falling Leaves
+
+Indium
+
+Bobby
+
+Concurrent Chunk Management Engine (Fabric)
+
+Lithium
+
+Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)
+
+Reese's Sodium Options
+
+Krypton
+
+Visuality
+
+Boat Item View
+
+kennytvs-epic-force-close-loading-screen-mod-for-fabric
+
+Audio Extension for FancyMenu
+
+Borderless Mining
+
+Presence Footsteps
 </details>
