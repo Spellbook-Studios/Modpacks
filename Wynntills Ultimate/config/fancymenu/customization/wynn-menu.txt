@@ -1,0 +1,233 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/bg_almuj_day.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 58
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 103
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -98
+  action = movebutton
+  y = 34
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 34
+}
+
+customization {
+  identifier = %id=604310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = element
+  orientation_element = 8123cfe6-c565-47fb-b47e-1f24ecb366b11686648527673
+  x = 205
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=604358%
+  orientation = element
+  orientation_element = 002ad940-bd34-4ac2-8361-eee994888e581686648467664
+  x = 205
+  action = movebutton
+  y = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 226
+  action = deep_customization_element:title_screen_branding
+  actionid = 1e4b4383-06dd-4888-b92e-efb97e931fdc1686648372198
+  y = 528
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = a5cf5041-9d0c-4b00-abe4-e34b5668c86c1686648372206
+  y = 235
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 9fddacad-8549-4c76-9f82-bffc9cdb141f1686648372206
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = d12ca337-0904-4736-8fa8-18fbfee94d771686648372206
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;play.wynncraft.com%btnaction_splitter_fm%
+  x = -100
+  width = 200
+  action = addbutton
+  actionid = 002ad940-bd34-4ac2-8361-eee994888e581686648467664
+  y = -10
+  label = Play US
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;eu.wynncraft.com%btnaction_splitter_fm%
+  x = -100
+  width = 200
+  action = addbutton
+  actionid = 8123cfe6-c565-47fb-b47e-1f24ecb366b11686648527673
+  y = 12
+  label = Play EU
+  height = 20
+}
+
+customization {
+  audio_source:56c05bd8-2ef9-4f3e-8220-1fa5b82f23731686649858517 = resources/wynn-ost.ogg;EXTERNAL_LOCAL;100;0
+  orientation = top-left
+  loop = false
+  channel = record
+  x = 372
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 715d2429-d319-4816-9d20-fc9613385ce71686649830599
+  y = 123
+  once_per_session = true
+  height = 50
+}
+
+customization {
+  path = resources/spellbbound-full.png
+  orientation = top-centered
+  x = -120
+  width = 243
+  action = addtexture
+  actionid = 0a8e2be9-0050-4557-b87e-2920cb87f7681686652682472
+  y = 15
+  height = 100
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.0.0?token=GHSAT0AAAAAAB5DJL57DMISVR5IWA2Z6VAEZEIPMYA
+  text_border = 0
+  case_mode = normal
+  source_mode = web
+  line_spacing = 1
+  x = 2
+  width = 211
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 420401c3-b5ff-4664-a1fe-fb5e70082f621686665737147
+  y = -27
+  alignment = left
+  height = 13
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = &cWynncraft Ultimate &dby Spellbook Studios
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 2
+  width = 235
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 8ee9720a-8eb7-454b-8c15-2388f6529bd01686665738802
+  y = -13
+  alignment = left
+  height = 12
+}
+
