@@ -43,7 +43,7 @@ Coming when I have time to use my actually good pc ;D
 <br>
 <table>
 <tr>
-  <td><img src="https://web-static.sebsa.dk/spellbook-dev/wu-other-1.png"/></td>
+  <td><img src="https://web-static.sebsa.dk/spellbook-dev/wu-other-2.png"/></td>
 </tr>
 <tr>
   <td>Main Menu</td>
