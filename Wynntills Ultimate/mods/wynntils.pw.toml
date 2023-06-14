@@ -1,13 +1,13 @@
 name = "Wynntils"
-filename = "wynntils-0.0.3-alpha.87-quilt.jar"
+filename = "wynntils-0.0.3-alpha.88-quilt.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/5YoW0rM6/wynntils-0.0.3-alpha.87-quilt.jar"
+url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/kyIQfZv0/wynntils-0.0.3-alpha.88-quilt.jar"
 hash-format = "sha1"
-hash = "486409e2f5f521354a7858c98ab00c760b0f8598"
+hash = "d64f975dd51261ddc560710cea14efee9995b6c3"
 
 [update]
 [update.modrinth]
 mod-id = "dU5Gb9Ab"
-version = "5YoW0rM6"
+version = "kyIQfZv0"

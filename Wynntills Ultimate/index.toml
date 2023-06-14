@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "60404f44509fecbc49441e19eef59871032e25e793db689e26734d09fd3ddab6"
+hash = "dc917a85fa67e5c7c05d072595faded95ac95b487ec9268c548fa2f565f26a40"
 metafile = true
 
 [[files]]
