@@ -74,7 +74,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/wynn-menu.txt"
-hash = "2b2fe40157e50659487a86e643d3e8d48826dc22d5a35749468de21bc907e565"
+hash = "ef77644ba999e3282e066eaf0ab696a50664faeed374c4f74f94b962a9e3a3bd"
 
 [[files]]
 file = "config/fancymenu/extensions/fmaudio/config.cfg"
@@ -232,11 +232,6 @@ hash = "a6565a2fac0b79155b0576ff882f88092c02c7c2a5793d760d5bcbada4b79ca8"
 metafile = true
 
 [[files]]
-file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "8b49556649c715d94d37b58ce1e84a456057b024b527976fa2b85a8eec53020a"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "55c14fd0cba0ae4478945420862cfdec970a5ab40b04a34ce9e3f94b9d721e38"
 metafile = true
@@ -258,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "788402a125343b8f538a8415adfda1ee49707fb9349d094030c038447e192649"
+hash = "d9eedf6b968e18479f2d9819859e5d9e8eea0876c066ae4238a4672482a34efb"
 metafile = true
 
 [[files]]
