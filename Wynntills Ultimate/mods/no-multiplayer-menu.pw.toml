@@ -1,0 +1,13 @@
+name = "No Multiplayer Menu"
+filename = "NoMPMenu-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/chZpRxas/versions/zXVFjG3e/NoMPMenu-1.0.jar"
+hash-format = "sha1"
+hash = "926678ce46ad21718c221e00c4f8d26447ce6572"
+
+[update]
+[update.modrinth]
+mod-id = "chZpRxas"
+version = "zXVFjG3e"

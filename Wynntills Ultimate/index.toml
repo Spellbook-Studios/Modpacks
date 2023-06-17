@@ -74,7 +74,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/wynn-menu.txt"
-hash = "ef77644ba999e3282e066eaf0ab696a50664faeed374c4f74f94b962a9e3a3bd"
+hash = "4a9baa8ffa7dc06215ff7e48941b99383eee773cf46b4bbe2513d2a823633b3b"
 
 [[files]]
 file = "config/fancymenu/extensions/fmaudio/config.cfg"
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "ccdb16fd2564c82cbb0db92b3963c772928bc2dfd6ed693313416e66f4ffd6ca"
+hash = "7d160f2096db6f3530dd5d35719b5362e8f3c0e2ac13d1f2412221d1a762f40f"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "5bb39494ca42f3365daaef1bec004dba55054a67ac7f83793b193fda67662160"
+hash = "574855b035d5fec3a71275bdf6c728dec2bc0133ca64d458cce4720d9b457428"
 metafile = true
 
 [[files]]
@@ -344,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "78e5ad156b8c0619fe9b2603c3d26423985c4f8437dfce3dcdce4d7463a1ca79"
+metafile = true
+
+[[files]]
+file = "mods/no-multiplayer-menu.pw.toml"
+hash = "82baae2a2e74b41c0c9d5c8ef52a9c720d70b9fa97fb0cf348eff3fb5e44f220"
 metafile = true
 
 [[files]]
@@ -388,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "dc917a85fa67e5c7c05d072595faded95ac95b487ec9268c548fa2f565f26a40"
+hash = "8a9d8dab6250b860f5fb41290250c5e8665608e4015e5852b25859692be333f7"
 metafile = true
 
 [[files]]
