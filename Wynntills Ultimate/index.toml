@@ -417,9 +417,16 @@ file = "servers.dat"
 hash = "822686434a1438202ec6a9a28d2ecf8e3afb3b8e2550df6aad1f038f6c5ada4d"
 
 [[files]]
-file = "shaderpacks/BSL_v8.2.04.zip"
-hash = "d28b02df49d05a7d5cf38fe0b9de54e37639e9e105138dc9683548fe788cac00"
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "ef5060e4fee094045e79fad89880359d0f3ad6042a63c74314adde206f8f208c"
+metafile = true
 
 [[files]]
-file = "shaderpacks/rethinking-voxels_beta18d.zip"
-hash = "3eadb0d6ec7cffbcf35717429079c6411b56c9dd3e2850eff669ce585c8702c9"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8445f71e1d1a5d5574204382fba1c75b5506ccf07b8a7605f0d810574c113d70"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
+metafile = true
