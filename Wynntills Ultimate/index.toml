@@ -415,3 +415,11 @@ hash = "8eb62db6f0c37c68abc43b11f93280e950d4fa06183ef480ebbfc903503b8be9"
 [[files]]
 file = "servers.dat"
 hash = "822686434a1438202ec6a9a28d2ecf8e3afb3b8e2550df6aad1f038f6c5ada4d"
+
+[[files]]
+file = "shaderpacks/BSL_v8.2.04.zip"
+hash = "d28b02df49d05a7d5cf38fe0b9de54e37639e9e105138dc9683548fe788cac00"
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_beta18d.zip"
+hash = "3eadb0d6ec7cffbcf35717429079c6411b56c9dd3e2850eff669ce585c8702c9"
