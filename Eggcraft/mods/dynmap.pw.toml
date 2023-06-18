@@ -1,0 +1,13 @@
+name = "Dynmap®"
+filename = "Dynmap-3.6-beta-1-fabric-1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRQREgAc/versions/vjPULkv3/Dynmap-3.6-beta-1-fabric-1.20.jar"
+hash-format = "sha1"
+hash = "f845c20fef980b5248555dac7815d894254cca8d"
+
+[update]
+[update.modrinth]
+mod-id = "fRQREgAc"
+version = "vjPULkv3"

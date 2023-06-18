@@ -1,0 +1,163 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LISCENSE.txt"
+hash = "96813a8bb4e9e1babf288f30c2112f2f8f4c5a811897db7582fcf5e4d3a3e263"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/bobby.conf"
+hash = "050e85e6b65b90745923b7fabc9ddcc6efd8da295c7532b7a9060c9684ee67be"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "5d9377be0d2d8ecc7af19e005955dc9a3dc6503b3e016acf2941b74a1ca9b6ae"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "82f405282db54677df0c129e5fd9653e30482cfec04eb6056c26ab03aad9b1be"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "a803f42b5ec238504deff1944f5112f1097145296f21f30b5aa91d29d524164e"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "3db000c8c12f56f4f9d94487142af85d0ad2d143e841e020f7d257e183b50e84"
+metafile = true
+
+[[files]]
+file = "mods/dynmap.pw.toml"
+hash = "7fbf2af0e6209134dc097da2570f0fbed7b0531cf55119986bae87eb4df57b59"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "2f65e35cd121966a40155af1317b3b5bfd4114240dfcc02bd75d8c8c65c59d52"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "45ad54cce889a3327cc38e244b140552c8a8616068885c26f05d4edc0a0456f0"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d81eac9cff3b173732245547079d6a7f33d3d12a3c00fc89297b24a32a030677"
+metafile = true
+
+[[files]]
+file = "mods/pack-it-up.pw.toml"
+hash = "9ea9371094d08735bda0c147399ea1f90af6964d9f6f14de0ae0b99fed84888b"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "b26289a0932399eeccd9e80167963590032bb04a40a52330bcfa218bf2bfda39"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "67a8a31946ae85efdd9aec14c121885e957c37facc40558d683c14650700f369"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "ef5060e4fee094045e79fad89880359d0f3ad6042a63c74314adde206f8f208c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8445f71e1d1a5d5574204382fba1c75b5506ccf07b8a7605f0d810574c113d70"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
+metafile = true
