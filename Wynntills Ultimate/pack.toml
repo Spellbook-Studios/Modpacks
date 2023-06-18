@@ -1,12 +1,12 @@
 name = "Wynncraft Ultimate"
 author = "Spellbook Studios"
-version = "1.0.5"
+version = "1.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3c172019866b14e18dfb5fea1e2e4f0fddcd127163540acaf1da8462580bc235"
+hash = "444f5ec73ca446b16bfba8b396d35c9556d4eb0abe90da99450ada599ca8c78e"
 
 [versions]
 minecraft = "1.19.4"

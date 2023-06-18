@@ -74,7 +74,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/wynn-menu.txt"
-hash = "4a9baa8ffa7dc06215ff7e48941b99383eee773cf46b4bbe2513d2a823633b3b"
+hash = "e7f743b4449de8c4af50f04662894662acc93b59536408e013528ba0634d2147"
 
 [[files]]
 file = "config/fancymenu/extensions/fmaudio/config.cfg"
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "8a9d8dab6250b860f5fb41290250c5e8665608e4015e5852b25859692be333f7"
+hash = "1d21bd2eaefd94e0c4f3cba3e7ec4fea24e9fa99bf488379afa1bbbdb2c35d05"
 metafile = true
 
 [[files]]
