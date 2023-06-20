@@ -67,6 +67,12 @@ AppleSkin
 Lithium
 
 Mod Menu
+
+Controlling
+
+LazyDFU
+
+Searchables
 </details>
 
 ## FAQ
