@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LISCENSE.txt"
-hash = "96813a8bb4e9e1babf288f30c2112f2f8f4c5a811897db7582fcf5e4d3a3e263"
+hash = "9b6daade279ed3247a31c0c598f7cdd7e2fc0e10eb4526edbc3399147c365d56"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a803f42b5ec238504deff1944f5112f1097145296f21f30b5aa91d29d524164e"
+hash = "e1cb00f094495e57ee1083f811a482075caebebb51269b6374512bf02cacff1f"
 metafile = true
 
 [[files]]
