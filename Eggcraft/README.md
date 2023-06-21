@@ -8,10 +8,7 @@ The modpack features a lot of optimization mods, allowing for everyone on your S
 **Extra Features**
  * Simple Voice Chat - Allows for proximity chat, pre configured with optimal settnigs
  * Dynmap - Allows the server owner to create a stunnign web map of the server
- * Waystones - Allows for fast travel between places, and a price of course.
- * Farmers Delight - Coming once updated
- * Cooking for Blockheads - Makes it easier to craft food and your own perfect kitchen
- * Pack It Up - A simple and elegeant solution to portable storage
+ * Appleskin - Allows the client to see exactly how hungry they are
 
 <details>
 <summary>Extended Mod List</summary>
@@ -21,8 +18,6 @@ Iris Shaders
 Sodium
 
 Starlight (Fabric)
-
-Fabric Waystones
 
 Indium
 
@@ -36,15 +31,7 @@ Sodium Extra
 
 Balm
 
-Cooking for Blockheads
-
-Gravestones
-
 Memory Leak Fix
-
-Pack It Up!
-
-Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)
 
 Reese's Sodium Options
 
@@ -68,11 +55,7 @@ Lithium
 
 Mod Menu
 
-Controlling
-
 LazyDFU
-
-Searchables
 </details>
 
 ## FAQ

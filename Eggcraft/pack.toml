@@ -1,12 +1,12 @@
 name = "Eggcraft"
 author = "Spellbook Studios"
-version = "1.0.2"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3c8120453be7edc7db5e5f3977c7be9d71ede47641ee7940d4af1791359b7e25"
+hash = "87b274dc3a8304828cf04629cd11b3cc231d942d1247490e99a095fe7ffc3569"
 
 [versions]
 fabric = "0.14.21"
