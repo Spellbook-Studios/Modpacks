@@ -13,6 +13,30 @@ file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "5053a37b81d3eb5cf541ac379feb40cd6ec9f2ae7d64a78ef4f1ef3babe730fc"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
 file = "config/bobby.conf"
 hash = "050e85e6b65b90745923b7fabc9ddcc6efd8da295c7532b7a9060c9684ee67be"
 
@@ -33,8 +57,17 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "82f405282db54677df0c129e5fd9653e30482cfec04eb6056c26ab03aad9b1be"
 
 [[files]]
+file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_20-v32.zip"
+hash = "1269309f211d240d2cf645817b07d6f4e140ece8c7ae6342b8ff30fe3e1f5fa7"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "f238e1f28f18e58f737116b13dab9716ca38b2dd84242e802d60419cc71ed737"
 metafile = true
 
 [[files]]
@@ -43,13 +76,48 @@ hash = "e1cb00f094495e57ee1083f811a482075caebebb51269b6374512bf02cacff1f"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "8d56c37138b08dc4e098bcdcf50579e1428df2c2e071022633a3b2e48bf0c975"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "3f3a883eedcb90e199fe94e96e46615866a86a3b31e7e33d37dd180700c3268b"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "d8431a3c5dac429143ec732d3a71511a5fb64b040c5dc58cd378d6c87fe2a8f5"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "e3804bfe0897d6234fcb2d2c89debae6274d6e0cb9597deb1c5a798fd2afabfe"
+metafile = true
+
+[[files]]
 file = "mods/dynmap.pw.toml"
-hash = "7fbf2af0e6209134dc097da2570f0fbed7b0531cf55119986bae87eb4df57b59"
+hash = "bd2e4788287febe2ef7e5ec50e487a4747a320b46fa9b4c0fc3a061f9c822535"
 metafile = true
 
 [[files]]
@@ -68,6 +136,16 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "d615e6cbf494aaeed1a2fb71cb8c8f0e261d8e1698298fec8e6f834b461daf39"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "45ad54cce889a3327cc38e244b140552c8a8616068885c26f05d4edc0a0456f0"
 metafile = true
@@ -83,13 +161,38 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "c9ee46aee098ea5b32c46b028b7bc3ee7138f3e5c92bee8515a2f2152cbb6506"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "849549f8e5590a794eaf1e4e848d25f9f38c1f7e51b0f1eba6178870c11628d7"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "4c979c2d1cb53d5dddfe8b72b3aefe0c1d0d9286b0fb46cb222cf6985b34d014"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "1b5a615e2ee610f82a242fbb8390dc9e9b8a265c522848a860f1e25e6d637913"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
 metafile = true
 
 [[files]]
@@ -113,8 +216,13 @@ hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "a93f7675a317356658f0cee2cf670bb56833e38c57410f509abbd57b357f8136"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d0bb678867006b092ce328666e1816652b93c13c6d62f520ffe3a212ae396fdb"
+hash = "e322a7ff1a300edcd29320206634eed36eab9a8b06e4e9142d163d89da341bb4"
 metafile = true
 
 [[files]]
