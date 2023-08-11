@@ -110,11 +110,6 @@ hash = "084ec914d4aba5a139e1bfaeb67c6a6c7cf1ba22cfbf5ef96a46db49c830db96"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
@@ -122,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/concrete-plus.pw.toml"
 hash = "c6621cd030da4ea8426115c94d6eed05e7d06caac80351459e9af95c480acde1"
+metafile = true
+
+[[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "2b28d1339f3853d3568d2e48096cac9c75745e93d484c36d03345bcaa3b7c3a9"
 metafile = true
 
 [[files]]
