@@ -1,0 +1,13 @@
+name = "Magical Colonies"
+author = "Sebsa & Howwow_Knyight"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dfb99dbf68effbfeb7d4132bf78f062145f12e3de8c64857f392aa4ca41f71a3"
+
+[versions]
+forge = "47.1.44"
+minecraft = "1.20.1"
