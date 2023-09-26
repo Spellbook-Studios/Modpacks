@@ -79,7 +79,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = element
-  orientation_element = 8123cfe6-c565-47fb-b47e-1f24ecb366b11686648527673
+  orientation_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
   x = 205
   action = movebutton
   y = 0
@@ -149,22 +149,8 @@ customization {
   width = 200
   action = addbutton
   actionid = 002ad940-bd34-4ac2-8361-eee994888e581686648467664
-  y = -10
-  label = Play US
-  height = 20
-}
-
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = joinserver;eu.wynncraft.com%btnaction_splitter_fm%
-  x = -100
-  width = 200
-  action = addbutton
-  actionid = 8123cfe6-c565-47fb-b47e-1f24ecb366b11686648527673
-  y = 12
-  label = Play EU
+  y = 10
+  label = Join Wynncraft
   height = 20
 }
 
@@ -198,7 +184,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.1.0
+  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.1.0-pre2
   text_border = 0
   case_mode = normal
   source_mode = web
@@ -229,5 +215,16 @@ customization {
   y = -13
   alignment = left
   height = 12
+}
+
+customization {
+  path = resources/lootrun.png
+  orientation = top-left
+  x = 504
+  width = 84
+  action = addtexture
+  actionid = 814307d9-6b2d-4ce6-bc31-3053e3be09461695740975963
+  y = 58
+  height = 84
 }
 
