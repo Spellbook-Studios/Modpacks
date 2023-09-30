@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b8cb0fbb7b57ea25bf7d7a5035b76ab188d8caedbb8ea50578a319a0b4d871dc"
+hash = "df4ef9b13881c60bbdbefb798a9c4654a0c8dd6ed7f84a878ab9c49db5e2ca18"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ hash = "addae510d52a6b7b4b57bf3554328512e25ad46beafe88c18e0acf37f9258793"
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "df1e24bd494b2210842cd1321ec1f9adbd88ddc36003843fa4575075a1c5e294"
+hash = "3a6ab1215bc89eb4502d0e8409564004bf39c7362a6f07521f9719ee818fcdd7"
 metafile = true
 
 [[files]]

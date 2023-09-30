@@ -1,12 +1,12 @@
 name = "Wynncraft Ultimate"
 author = "Spellbook Studios"
-version = "1.1.0-pre2"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "03677b6b523760b61c8d14e6bd0914dbd8ec31adb30923b319e9548e9561b040"
+hash = "e899691dc4466a89cbcd006e4921e3fada9433430a3b9b0390b27e0da74e0bd0"
 
 [versions]
 fabric = "0.14.22"

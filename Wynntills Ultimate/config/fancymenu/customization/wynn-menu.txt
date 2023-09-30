@@ -184,7 +184,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.1.0-pre2
+  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.1.0
   text_border = 0
   case_mode = normal
   source_mode = web
@@ -215,16 +215,5 @@ customization {
   y = -13
   alignment = left
   height = 12
-}
-
-customization {
-  path = resources/lootrun.png
-  orientation = top-left
-  x = 504
-  width = 84
-  action = addtexture
-  actionid = 814307d9-6b2d-4ce6-bc31-3053e3be09461695740975963
-  y = 58
-  height = 84
 }
 

@@ -13,9 +13,7 @@ Features like a customized menu screen makes it easy to jump right in to some wy
 <details>
 <summary>Graphics</summary>
 <br>
-Coming when I have time to use my actually good pc ;D
-
-*You can still checkout the others...*
+Shaders are pre-installed and ready to go. I don't think i need any pictures... It's just MC with shaders
 </details>
 
 <details>
@@ -43,7 +41,7 @@ Coming when I have time to use my actually good pc ;D
 <br>
 <table>
 <tr>
-  <td><img src="https://web-static.sebsa.dk/spellbook-dev/wu-other-2.png"/></td>
+  <td><img src="https://web-static.sebsa.dk/upload/e/pb0ypui.jpg"/></td>
 </tr>
 <tr>
   <td>Main Menu</td>
@@ -55,76 +53,99 @@ Coming when I have time to use my actually good pc ;D
 ## Modlist
 <details>
 <summary>Modlist</summary>
+3dskinlayers
 
-Searchables
+audio-extension-for-fancymenu
 
-Iris Shaders
+auudio
 
-Mod Menu
+blanket
 
-No Telemetry
+blur-fabric
 
-In-Game Account Switcher
+boat-item-view
 
-Sodium
+bobby
 
-Better Fps - Render Distance[Fabric]
+borderless-mining
 
-Controlling
+c2me-fabric
 
-Continuity
+cloth-config
 
-Auudio
+continuity
 
-Blur (Fabric)
+controlling
 
-Dynamic FPS
+cull-leaves
 
-Konkrete
+debugify
 
-Starlight (Fabric)
+dynamic-fps
 
-3D Skin Layers
+dynamic-sound-filters
 
-FancyMenu
+entityculling
 
-Cloth Config API
+exordium-fabric-1.0.3-mc1.19.4
 
-Fabrishot
+fabric-api
 
-Entity Culling
+fabric-language-kotlin
 
-FerriteCore
+fabrishot
 
-Wynntils
+fallingleaves
 
-Dynamic Sound Filters
+fancymenu
 
-Falling Leaves
+ferrite-core
 
-Indium
+forcecloseworldloadingscreen
 
-Bobby
+in-game-account-switcher
 
-Concurrent Chunk Management Engine (Fabric)
+indium
 
-Lithium
+iris
 
-Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)
+konkrete
 
-Reese's Sodium Options
+krypton
 
-Krypton
+lazydfu
 
-Visuality
+lithium
 
-Boat Item View
+logical-zoom
 
-kennytvs-epic-force-close-loading-screen-mod-for-fabric
+midnightlib
 
-Audio Extension for FancyMenu
+modmenu
 
-Borderless Mining
+moreculling
 
-Presence Footsteps
+no-multiplayer-menu
+
+no-telemetry
+
+presence-footsteps
+
+reeses-sodium-options
+
+searchables
+
+sodium-extra
+
+sodium
+
+starlight
+
+visuality
+
+wynnlib-0.2.13-1.19.4
+
+wynntils
+
+yacl
 </details>
