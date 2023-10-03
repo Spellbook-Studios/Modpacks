@@ -32,20 +32,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
-  x = 103
-  action = movebutton
-  y = 0
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   action = hidebutton
 }
@@ -74,24 +60,6 @@ customization {
 customization {
   identifier = %id=604310%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
-  x = 205
-  action = movebutton
-  y = 0
-}
-
-customization {
-  identifier = %id=604358%
-  orientation = element
-  orientation_element = 002ad940-bd34-4ac2-8361-eee994888e581686648467664
-  x = 205
-  action = movebutton
-  y = 0
 }
 
 customization {
@@ -184,7 +152,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.1.0
+  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.1.1
   text_border = 0
   case_mode = normal
   source_mode = web
@@ -215,5 +183,14 @@ customization {
   y = -13
   alignment = left
   height = 12
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 102
+  action = movebutton
+  y = 0
 }
 
