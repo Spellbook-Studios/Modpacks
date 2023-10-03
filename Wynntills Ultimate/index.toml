@@ -98,7 +98,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/wynn-menu.txt"
-hash = "a1a04c12da41023496907086c1b74ba0aa0914df6424f1bdbc804239c74e39e6"
+hash = "dea1254571b97587c3aca5ba5eb981392794a1af48d1dd6d7f4928ba397bc530"
 
 [[files]]
 file = "config/fancymenu/extensions/fmaudio/config.cfg"
@@ -499,16 +499,8 @@ file = "resources/bg_almuj_day.png"
 hash = "dba919f97c2404276b96485e4f446a8ab35c898ae44820a5a25a21e56c7b613e"
 
 [[files]]
-file = "resources/lootrun.png"
-hash = "7a9fa5e011d559034ac65cf8f7383b238a9739927a8736ddf1c4101df29443d8"
-
-[[files]]
 file = "resources/spellbbound-full.png"
 hash = "7168d1ebfdc2bd5b802f78c08e7218eebcb65b68436b3b48893f68e93123eac4"
-
-[[files]]
-file = "resources/spellbound-full.webp"
-hash = "94ce67a5b1b014dbbed736ec71cfdca5b677aeb8cc440c8d26e38f75835e1363"
 
 [[files]]
 file = "resources/wynn-ost.ogg"
