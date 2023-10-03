@@ -98,7 +98,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/wynn-menu.txt"
-hash = "6e0e24a417260e542c8d0fc78a617bb7f110392d47b6851956f8921efd19a979"
+hash = "e82ce39d9b07bbf57aeabc02742ec9a655ff003ea7b3e83a66e822dcebd47768"
 
 [[files]]
 file = "config/fancymenu/extensions/fmaudio/config.cfg"
