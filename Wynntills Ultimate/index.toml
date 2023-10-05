@@ -98,7 +98,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/wynn-menu.txt"
-hash = "e82ce39d9b07bbf57aeabc02742ec9a655ff003ea7b3e83a66e822dcebd47768"
+hash = "ac4e4097a70b5f716d76ce36038c6fc17e4a1ef8a44043116aee8c435932da7b"
 
 [[files]]
 file = "config/fancymenu/extensions/fmaudio/config.cfg"
@@ -249,12 +249,20 @@ file = "config/sodium-options.json"
 hash = "a32c52228ca930779d73429e2e0732470e35610c39fbb828cf3b5c51986eebaa"
 
 [[files]]
+file = "config/update_me.json5"
+hash = "1ee8878b850d128b96801ed82b49836167bd61f6c50582e9b70207a7039b9d11"
+
+[[files]]
 file = "config/visuality.json"
 hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
 
 [[files]]
 file = "config/wynnvp.toml"
 hash = "6d476facda55be8bcebd954430f6e9a88ef7ecc0a207c05594dcfc0bbd00cd96"
+
+[[files]]
+file = "mods/Update-ME-1.0.jar"
+hash = "1e9c6ae8d1e58cae862cfc3ea3fad35f32dd6429db491acfc9c16a3348fdcedd"
 
 [[files]]
 file = "mods/audio-extension-for-fancymenu.pw.toml"

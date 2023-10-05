@@ -63,6 +63,15 @@ customization {
 }
 
 customization {
+  identifier = %id=376394%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 102
+  action = movebutton
+  y = 0
+}
+
+customization {
   orientation = top-left
   hidden = true
   x = 2
@@ -152,25 +161,6 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.1.1
-  text_border = 0
-  case_mode = normal
-  source_mode = web
-  line_spacing = 1
-  x = 2
-  width = 211
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 420401c3-b5ff-4664-a1fe-fb5e70082f621686665737147
-  y = -27
-  alignment = left
-  height = 13
-}
-
-customization {
-  orientation = bottom-left
-  enable_scrolling = true
-  shadow = true
-  scale = 1.0
   source = &cWynncraft Ultimate &dby Spellbook Studios
   text_border = 0
   case_mode = normal
@@ -183,14 +173,5 @@ customization {
   y = -13
   alignment = left
   height = 12
-}
-
-customization {
-  identifier = %id=376394%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
-  x = 102
-  action = movebutton
-  y = 0
 }
 

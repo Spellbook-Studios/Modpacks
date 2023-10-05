@@ -1,0 +1,9 @@
+{
+	// The version of the modpack, this is the version that is used to compare against the newest version
+	versionString: "1.1.2",
+	// If not empty, this used to test the modpacks version against
+	// If the text is different from the current versions text, the update screen will show up, upon launching the game
+	// Must be a direct link e.g.
+	// https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/VERSION
+	newestVersionURL: "https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/VERSION"
+}
