@@ -98,7 +98,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/wynn-menu.txt"
-hash = "ac4e4097a70b5f716d76ce36038c6fc17e4a1ef8a44043116aee8c435932da7b"
+hash = "d774cd5606123f8460f6a73f0f434f90b87f968f83efe3835cf512fa839469fd"
 
 [[files]]
 file = "config/fancymenu/extensions/fmaudio/config.cfg"
@@ -250,7 +250,7 @@ hash = "a32c52228ca930779d73429e2e0732470e35610c39fbb828cf3b5c51986eebaa"
 
 [[files]]
 file = "config/update_me.json5"
-hash = "1ee8878b850d128b96801ed82b49836167bd61f6c50582e9b70207a7039b9d11"
+hash = "cf9568399b9eb1a3a74006de47f370547bdb68515287b9b6b975ea05f70d04f3"
 
 [[files]]
 file = "config/visuality.json"
@@ -261,8 +261,9 @@ file = "config/wynnvp.toml"
 hash = "6d476facda55be8bcebd954430f6e9a88ef7ecc0a207c05594dcfc0bbd00cd96"
 
 [[files]]
-file = "mods/Update-ME-1.0.jar"
-hash = "1e9c6ae8d1e58cae862cfc3ea3fad35f32dd6429db491acfc9c16a3348fdcedd"
+file = "mods/3dskinlayers.pw.toml"
+hash = "8868e7077cfcb26792ae0e366577400ee26c74b9fb9da550cd8570829c97020f"
+metafile = true
 
 [[files]]
 file = "mods/audio-extension-for-fancymenu.pw.toml"
@@ -317,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "e563a3aade07a19a87d59aa18222f1800a8c5f71af8c37046f0ce3b8a2a7a006"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "ebc95d8dac761549f43c49938b8d1a0044a43af4484f492959de83a2bdc9e267"
 metafile = true
 
 [[files]]
@@ -445,13 +441,18 @@ hash = "0a78a506125c0edc97d2292d26c6eab310106c60a5a4e64d73ff67bb619f5a4c"
 metafile = true
 
 [[files]]
+file = "mods/update-me.pw.toml"
+hash = "414798bd152b265d40f3302dd55013b77fa2beab327c9b20eb8b1a605a790a2a"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
 metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "217071f8f85d70ddbdbd93ece2a0299623786ca5152be7fcc9c7b53dc3651aac"
+hash = "a4936078930004f101b0be972aeaa1faa138647663f1c8b17d456bf8ad5822b0"
 metafile = true
 
 [[files]]
@@ -483,5 +484,9 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "801ce659e2e944efad8ed937e1e49ebec24be88ba26da4630c59e5afcba75571"
+hash = "ff019bacf0458d33588410c520495c55d88f19dc26bf85af4cf9fbd9856eac7f"
 metafile = true
+
+[[files]]
+file = "version-text/VERSION"
+hash = "f496dadd142ed855c80a34216aa12748f7b9e5023f8f47eb1be3e5062b28f098"

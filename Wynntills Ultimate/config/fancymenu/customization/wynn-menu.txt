@@ -175,3 +175,60 @@ customization {
   height = 12
 }
 
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = https://raw.githubusercontent.com/Spellbook-Studios/Modpacks/main/Wynntills%20Ultimate/version-text/1.1.1
+  text_border = 0
+  case_mode = normal
+  source_mode = web
+  line_spacing = 1
+  x = 2
+  width = 211
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 420401c3-b5ff-4664-a1fe-fb5e70082f621686665737147
+  y = 0
+  alignment = left
+  height = 13
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = version-text/VERSION
+  text_border = 0
+  case_mode = normal
+  source_mode = local
+  line_spacing = 1
+  x = 85
+  width = 86
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = b3f3432f-faa8-4763-8787-3032efc9983f1696601890366
+  y = -24
+  alignment = left
+  height = 12
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = &cRunning version 
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 2
+  width = 81
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 8ec49471-fd60-4cef-9ef1-bae7b3840ae81696601947270
+  y = -24
+  alignment = left
+  height = 12
+}
+

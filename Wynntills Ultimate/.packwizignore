@@ -4,4 +4,5 @@
 # Exclude README
 README.md
 /version-text/
+!/version-text/VERSION
 *.mrpack
