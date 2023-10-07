@@ -1,4 +1,4 @@
-// priority: 0
+// priority: 50
 
 // Visit the wiki for more info - https://kubejs.com/
 
@@ -29,7 +29,7 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
     event.shapeless(
       Item.of(`kubejs:plate_${ingotPlateType[i]}`, 1),
       [ 
-        'ad_astra:hammer', 
+        '#forge:hammers', 
         `kubejs:stack_${ingotPlateType[i]}_ingot`
       ]
       ).damageIngredient(0).keepIngredient(0)
