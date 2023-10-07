@@ -1,0 +1,13 @@
+name = "Saturn's Backpacks"
+filename = "simply_backpacks-forge_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u1PoOw3n/versions/3UxYB4VL/simply_backpacks-forge_1.20.1.jar"
+hash-format = "sha1"
+hash = "ccabe6cb71550ae8ac49fa70b64e1d6b4daead4d"
+
+[update]
+[update.modrinth]
+mod-id = "u1PoOw3n"
+version = "3UxYB4VL"

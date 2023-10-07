@@ -1,0 +1,13 @@
+name = "Machines & Magecraft"
+author = "Spellbook Studios"
+version = "1.0.0a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c58a6d1b81f82dfe8cd803036900b250a8fd1ad06649009f3bb3dbc196f03f00"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.79"

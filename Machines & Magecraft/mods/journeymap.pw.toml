@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-1.20.1-5.9.15-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/mWwTjcPF/journeymap-1.20.1-5.9.15-neoforge.jar"
+hash-format = "sha1"
+hash = "95b12d7c41c1d3736897cca03fe40bb38270110f"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "mWwTjcPF"

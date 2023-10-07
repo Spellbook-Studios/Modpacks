@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-multiplayer-menu.pw.toml"
-hash = "209f9386b82544db0acc3da597bda4f918b709f55898a88e37b0309a684e15b5"
+hash = "1afb44587fdd1d6d8a11810706181ee7358de8cbaf02876391391cccb7e9b4ad"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/update-me.pw.toml"
-hash = "414798bd152b265d40f3302dd55013b77fa2beab327c9b20eb8b1a605a790a2a"
+hash = "cf39edd6bc93bdccb012b7aa7741d5fd592f1c969dbab93cfd0d24e63563b190"
 metafile = true
 
 [[files]]

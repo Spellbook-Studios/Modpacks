@@ -1,13 +1,13 @@
 name = "No Multiplayer Menu"
-filename = "NoMPMenu-1.2.jar"
+filename = "nompmenu-1.3b.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/chZpRxas/versions/aZfA7MKj/NoMPMenu-1.2.jar"
+url = "https://cdn.modrinth.com/data/chZpRxas/versions/jgyGzFLF/nompmenu-1.3b.jar"
 hash-format = "sha1"
-hash = "37e1de13b004afcf1f13974c31ea00eb9cb5719e"
+hash = "f68adbcc544d93e2218d3ff74b2f1476e0abfd10"
 
 [update]
 [update.modrinth]
 mod-id = "chZpRxas"
-version = "aZfA7MKj"
+version = "jgyGzFLF"
