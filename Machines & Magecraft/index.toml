@@ -465,24 +465,68 @@ file = "journeymap/defaultconfig.json"
 hash = "25eda3a33296f67be1fc476f9c18749f3c7831f426ec6ed29ff5dc30062033ea"
 
 [[files]]
+file = "kubejs/assets/mm/textures/item/hammer_diamond.png"
+hash = "a990442f63e85be58ceaf7fb51f3950cb41649f0ceac06a45d3a8ecdb4119cc1"
+
+[[files]]
+file = "kubejs/assets/mm/textures/item/hammer_gold.png"
+hash = "322febdf672130b2aade0fd80cf6f53fe440c04a8dcfe3f20646f50d06fefc70"
+
+[[files]]
+file = "kubejs/assets/mm/textures/item/hammer_iron.png"
+hash = "9ad3e6f2189ea3c0506239a7d4c4f23a85963cc328e9bfb7b336e7c737f97b48"
+
+[[files]]
+file = "kubejs/assets/mm/textures/item/hammer_stone.png"
+hash = "e81fa476b9a70972b55cc0f28efe74083e41e6305cc2434950e33e58d78f39d6"
+
+[[files]]
+file = "kubejs/assets/mm/textures/item/hammer_wood.png"
+hash = "3539f1c7f770623919540c3d0e18076f76118eb7247bfc2a498b5b70c50ec4cb"
+
+[[files]]
 file = "kubejs/assets/mm/textures/item/plate_copper.png"
 hash = "29ff1cbfc284f92c5db68335a2e32a30d4f123800135c170e37d64c7005ebf06"
+
+[[files]]
+file = "kubejs/assets/mm/textures/item/plate_dark_steel.png"
+hash = "f17ddff53cd9d3368b671ea477000f11ce2f625bc1235a9714d5b1ba3542f6f4"
 
 [[files]]
 file = "kubejs/assets/mm/textures/item/stack_copper_ingot.png"
 hash = "83520f4480378fb492c74e2a0ef5c44e340d40289fe9ac8a662cc5cb04db7f7a"
 
 [[files]]
+file = "kubejs/assets/mm/textures/item/stack_dark_steel_ingot.png"
+hash = "1db16d319738c3190736f690ede19d0ee7b601fb6d57a9360db76ce02cd316cd"
+
+[[files]]
+file = "kubejs/assets/mm/textures/item/stack_iron_ingot.png"
+hash = "d760be0c11b1d78b2f3314053680ccaef9fcd77c8f5f60c0d6c6c31232edb7be"
+
+[[files]]
+file = "kubejs/server_scripts/hammers.js"
+hash = "aefd7e4da7ae23905f01e2a6e652d72d1219c42e9fa9bccbcead76072d1778fa"
+
+[[files]]
 file = "kubejs/server_scripts/recipie_backpack.js"
-hash = "4e8ebb035983d9746d78e763ca5c76d4fa3ff93ab02872f23b3770cae36205d3"
+hash = "e309a8a9d8bed99003b71f4c235267872de38034ae3577e4af84d5df501c5938"
 
 [[files]]
 file = "kubejs/server_scripts/recipie_stacks_plates.js"
-hash = "1c6bb7b97d8c6fab9608df44d9f1cc49b6b9ab5bee779784b9d1f99edb099439"
+hash = "a1e239cfbb3cc86a2c5a5af447664f5512941624509f9947f71be36e308c963a"
+
+[[files]]
+file = "kubejs/startup_scripts/hammers.js"
+hash = "ab04193de2f1e0ff1ff9335108771a520f84b4602c694e33aa9fae3db92da694"
 
 [[files]]
 file = "kubejs/startup_scripts/stacks_plates.js"
-hash = "8b85a650ae311a8dbe10533b01087751f75f91fa611212fe9d4d450c09255e5e"
+hash = "b001d9eb8c3aea785753b3db785a9ddd82bdac639014bc8409a55002b8f9563e"
+
+[[files]]
+file = "kubejs/startup_scripts/startup.js"
+hash = "ff9a19a9c012134ad7ff26ffd840e859751b7da78dc30c96072f72f15653d278"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -510,6 +554,11 @@ hash = "a139f9445ec2f61d3d358794c845eb5c868028feff1bffa8477a87a29602beba"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "21693570dd62ad5e53ab74e69012b427621291f258a66387f0da6a9d3819a41f"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
@@ -532,6 +581,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "259636601b21c7ae999f27ea087149a9a004cb7c688ca6b37c63f0e2d81ed1f9"
 metafile = true
 
 [[files]]
@@ -602,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "ccc676f2fe83d77631fda1cc9ee4f1888d5ae4790f9777b0075f820d71dee3a0"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "2be51a88a049d234dbdb1c3643d004b73885fa2a2433eefde0f8649b77e3db31"
 metafile = true
 
 [[files]]
@@ -767,6 +826,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "8bd5bc2330225cac3d3d1599b9c7ccfae687347735d8ac5327ad4d76fd295551"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "64e997e04b19eedebde864ff21db921c36998fe20e7a935b9536ad15d4c9d5ad"
 metafile = true
 
 [[files]]
