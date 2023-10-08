@@ -509,16 +509,12 @@ file = "kubejs/server_scripts/hammers.js"
 hash = "aefd7e4da7ae23905f01e2a6e652d72d1219c42e9fa9bccbcead76072d1778fa"
 
 [[files]]
-file = "kubejs/server_scripts/leather.js"
-hash = "f3b08e7316189b17d468c286ed5dbd2cf070d0ce3335ef155f65153f7f821e09"
-
-[[files]]
 file = "kubejs/server_scripts/recipie_backpack.js"
 hash = "e309a8a9d8bed99003b71f4c235267872de38034ae3577e4af84d5df501c5938"
 
 [[files]]
 file = "kubejs/server_scripts/recipie_stacks_plates.js"
-hash = "06cf807d8c518e1a999b313dda8c737d6367ff33af8b40167d37de9838ceaee4"
+hash = "d4173d726161aff3ba15b92045e9b4b596e990f73b446bc62ed706d4c3fb9c57"
 
 [[files]]
 file = "kubejs/startup_scripts/hammers.js"
@@ -531,6 +527,10 @@ hash = "b001d9eb8c3aea785753b3db785a9ddd82bdac639014bc8409a55002b8f9563e"
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
 hash = "ff9a19a9c012134ad7ff26ffd840e859751b7da78dc30c96072f72f15653d278"
+
+[[files]]
+file = "mods/YAAM-1.0.0b-forge.jar"
+hash = "e4184230a163ec9c1cac7e85a0156c5ee625d6c3fd2fdb68e97e3e0262e0adec"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -814,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "d6a240bbf25b40fa2b17275c9f7906b110ba9a7767f449dbbd2aed61d23c3c20"
+hash = "da89ecdd114a7c62447944a1d97d276bbc127c277fcbbe8e54a70732ca04a780"
 metafile = true
 
 [[files]]
@@ -834,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "64e997e04b19eedebde864ff21db921c36998fe20e7a935b9536ad15d4c9d5ad"
+hash = "330bf5ec01e4c344f2984f36b23d7f5d028a5bf8cf7a6c1a46f625c2190b8801"
 metafile = true
 
 [[files]]
