@@ -509,12 +509,16 @@ file = "kubejs/server_scripts/hammers.js"
 hash = "aefd7e4da7ae23905f01e2a6e652d72d1219c42e9fa9bccbcead76072d1778fa"
 
 [[files]]
+file = "kubejs/server_scripts/leather.js"
+hash = "f3b08e7316189b17d468c286ed5dbd2cf070d0ce3335ef155f65153f7f821e09"
+
+[[files]]
 file = "kubejs/server_scripts/recipie_backpack.js"
 hash = "e309a8a9d8bed99003b71f4c235267872de38034ae3577e4af84d5df501c5938"
 
 [[files]]
 file = "kubejs/server_scripts/recipie_stacks_plates.js"
-hash = "a1e239cfbb3cc86a2c5a5af447664f5512941624509f9947f71be36e308c963a"
+hash = "06cf807d8c518e1a999b313dda8c737d6367ff33af8b40167d37de9838ceaee4"
 
 [[files]]
 file = "kubejs/startup_scripts/hammers.js"

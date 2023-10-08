@@ -27,7 +27,7 @@ ServerEvents.tags('item', event => {
 })
 
 // Recipies for stacks and plates
-ServerEvents.recipes(event => { //listen for the "recipes" server event.
+ServerEvents.recipes(event => {
   // Stacks recipies
   for (var i = 0; i < ingotStackType.length; i++) {
     event.shaped(
@@ -40,12 +40,12 @@ ServerEvents.recipes(event => { //listen for the "recipes" server event.
 
   // Plate recipies
   for (var i = 0; i < ingotPlateType.length; i++) {
-    event.shapeless(
+    event.shaped(
       Item.of(`kubejs:plate_${ingotPlateType[i]}`, 1),
       [
-        '#mm:hammers',
-        `kubejs:stack_${ingotPlateType[i]}_ingot`
-      ]
+        'A',
+        'B'
+      ], { A: '#mm:hammers', B: `kubejs:stack_${ingotPlateType[i]}_ingot` }
     ).damageIngredient(0).keepIngredient(0)
   }
 
