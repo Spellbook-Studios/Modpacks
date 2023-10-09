@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "a139f9445ec2f61d3d358794c845eb5c868028feff1bffa8477a87a29602beba"
+hash = "ad31c4ff7ba58d4834d973f21f374d4284a3085f8931e8ac1f73396e7f2cd4ca"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "15d47c75c7b2e02317b563f3bdae289c778bde6c20cb2dd502899a9cbc7e34e2"
+hash = "f4e0e55bfea98c0dee1e3dc2c9f687cb7bf00ae3ddd4f89ab6bd2c36f284cda6"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/tome-of-blood-rebirth.pw.toml"
-hash = "916dbb65695c0dd6fa2e8b94c002755ba8f9af84a3d67fef57cf8fcc752988ba"
+hash = "7eca9b42046a5ae6e80b68780732ea7279f55ceadeac46cf88ec651182e581b1"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/yaam.pw.toml"
-hash = "2d5f1e2ba36a19cedd2ae04772422cbcb44d473131eca08c4bea2b34008227b0"
+hash = "07a589c8eed7e8429778edc04f54cd3276e25b0a06e6c627cb06fe11d55ffa55"
 metafile = true
 
 [[files]]
