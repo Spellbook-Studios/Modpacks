@@ -1,0 +1,13 @@
+name = "Yet Another Additions Mod"
+filename = "YAAM-1.0.0c-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/avq72s6C/versions/DvPYclAp/YAAM-1.0.0c-forge.jar"
+hash-format = "sha1"
+hash = "55ca7745e078ced1bb1f4be202e972bbdd8ddd9d"
+
+[update]
+[update.modrinth]
+mod-id = "avq72s6C"
+version = "DvPYclAp"

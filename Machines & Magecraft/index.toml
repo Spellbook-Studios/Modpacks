@@ -529,10 +529,6 @@ file = "kubejs/startup_scripts/startup.js"
 hash = "ff9a19a9c012134ad7ff26ffd840e859751b7da78dc30c96072f72f15653d278"
 
 [[files]]
-file = "mods/YAAM-1.0.0b-forge.jar"
-hash = "e4184230a163ec9c1cac7e85a0156c5ee625d6c3fd2fdb68e97e3e0262e0adec"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "297bdd961c91a416b8bbaa049ec0554db14e0db2c22cdd0b1d872ba067a73a02"
 metafile = true
@@ -855,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "41986c728a97a5b62edd0bf1fe47b98404e4b40568d3478b743572f89864d994"
+metafile = true
+
+[[files]]
+file = "mods/yaam.pw.toml"
+hash = "2d5f1e2ba36a19cedd2ae04772422cbcb44d473131eca08c4bea2b34008227b0"
 metafile = true
 
 [[files]]
