@@ -46,18 +46,18 @@ ServerEvents.recipes(event => {
         'A',
         'B'
       ], { A: '#mm:hammers', B: `kubejs:stack_${ingotPlateType[i]}_ingot` }
-    ).damageIngredient(0).keepIngredient(0)
+    ).damageIngredient('#mm:hammers').keepIngredient('#mm:hammers')
   }
 
   // Override iron plate recipie from Ad Astra
   event.remove({ output: 'ad_astra:iron_plate' })
-  event.shapeless(
+  event.shaped(
     Item.of(`ad_astra:iron_plate`, 1),
     [
-      '#mm:hammers',
-      `kubejs:stack_iron_ingot`
-    ]
-  ).damageIngredient(0).keepIngredient(0)
+      'A',
+      `B`
+    ], { A: '#mm:hammers', B: 'kubejs:stack_iron_ingot'}
+  ).damageIngredient('#mm:hammers').keepIngredient('#mm:hammers')
 
   // Using plates
   replaceList(event, ['minecraft:iron_ingot','#forge:ingots/iron'], '#forge:plates/iron', ['mekanism:basic_smelting_factory',
