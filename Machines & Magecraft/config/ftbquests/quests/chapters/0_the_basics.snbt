@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0_the_basics"
+	group: "76371ECACC2EE190"
+	icon: "minecraft:grass_block"
+	id: "0937A1266E7098E8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "0. The Basics"
+}

@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2_iron_spellbooks"
+	group: "76371ECACC2EE190"
+	icon: {
+		Count: 1b
+		id: "irons_spellbooks:scroll"
+		tag: {
+			ISB_spell: {
+				id: "irons_spellbooks:devour"
+				level: 10
+			}
+		}
+	}
+	id: "78363D8F948F1572"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "2. Irons Spellbooks"
+}
