@@ -121,6 +121,10 @@ file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
 hash = "101dcd5d4e8cfb47c6e1420388a3a0c71afa10f9c6e88be0df85564894fc88ac"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/food.snbt"
+hash = "ad3f7bcd2cf13a43471ba1f5270a3057b8f3bd79c7a744ebf6c958178c64dd88"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/mekanism.snbt"
 hash = "4b11f8943a0f5afe8bd7f281d792b0b7c638b1170cdb794857f31b3a728ef754"
 
@@ -131,6 +135,10 @@ hash = "aa2cd431668b38b79cf4bb818c411c92a2f68a5853b72edb554ac3fcf84eadd4"
 [[files]]
 file = "config/ftbquests/quests/chapters/occultism.snbt"
 hash = "14b6286c99cd60771f5edd230171fd00c40709f0a96c0bd304e83e7a4d62e58e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/powah.snbt"
+hash = "d7e363a99b878a47799187ae891c61a5d4924a5375abaf1a7cfd20ace3ecf261"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/thermal.snbt"
@@ -580,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "47c77ec7ca03c9e32a1dbcb815114e6becf0fd8d9519dfb3b9264115ea7cb1ce"
+hash = "48cda0a893abd6fb996664dae380a8fb5213587530ded3199b0a4011cd5be8bc"
 metafile = true
 
 [[files]]
@@ -671,6 +679,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "d2f97782c59444f861c4713802eeae2dd36ba7180d169c2334c59913cb06c716"
+metafile = true
+
+[[files]]
+file = "mods/twilight-delight.pw.toml"
+hash = "086365f8056548d8e8c9aab123f7d1f7c6e7375f3a1879e5e049a1ec93887125"
 metafile = true
 
 [[files]]

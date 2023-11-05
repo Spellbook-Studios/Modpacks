@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "food"
+	group: "216B82191164535E"
+	id: "787D00A920E903CD"
+	order_index: 14
+	quest_links: [ ]
+	quests: [ ]
+	title: "Food"
+}
