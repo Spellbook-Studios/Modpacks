@@ -518,7 +518,7 @@ hash = "e309a8a9d8bed99003b71f4c235267872de38034ae3577e4af84d5df501c5938"
 
 [[files]]
 file = "kubejs/server_scripts/recipie_stacks_plates.js"
-hash = "d4173d726161aff3ba15b92045e9b4b596e990f73b446bc62ed706d4c3fb9c57"
+hash = "c7749d1fb9bc60664147b4a599e8343a3ba1069fcddf1366cda9d522868c74e2"
 
 [[files]]
 file = "kubejs/startup_scripts/hammers.js"
@@ -630,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "0562b204bea7c44067bd9272ca7128994bfb2c28262864c78bf2b4b79bbbb0ac"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "022a9a1017ffcf3ddd00867b05529d90d1e89ba0928f65f71f4788f889831231"
 metafile = true
 
 [[files]]
@@ -853,8 +858,8 @@ hash = "c4be54a675417af1a25d8b53f7250e45b6549a5387dfa5224d524eaa535741a1"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
+file = "mods/rubidium-extra.pw.toml"
+hash = "4784b541326dacd7cd2875896cf0b3d6cf79fb0194dbca21d691b0f5083a8030"
 metafile = true
 
 [[files]]
@@ -870,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "297081f7f2c1077fe15462dcff69143f96f672818dfa6829fae39d1c5849f25c"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
 metafile = true
 
 [[files]]
@@ -893,8 +903,8 @@ hash = "c7b5cc4b23192c970f0aa018e1e5e801a56c3ec2149e87eb30e4d57fa624e2ba"
 metafile = true
 
 [[files]]
-file = "mods/textrues-rubidium-options.pw.toml"
-hash = "8aa796fb0766c452314bfb2f28bc248a1c8300a00d580030ffd0685071c82767"
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "f76a3b5b2df7cc7707b1b0de586af8175072ecb757a96c5b5aac2b4046b7335a"
 metafile = true
 
 [[files]]
