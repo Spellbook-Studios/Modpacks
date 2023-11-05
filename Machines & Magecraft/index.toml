@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c8ef02c055eb65aa84b21769fbc0f3b7453a6e25de410ff49aab6ec1bccab319"
+hash = "be76e0c1e22211a8d47d1265177d0f98caa9fe75cd0906ce21b97531cb03dbf2"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/tome-of-blood-rebirth.pw.toml"
-hash = "7c9b013d74e5f980dfff88ca0b9641436ea319ae6f39f669bc828c911f748f74"
+hash = "499a56fca9534b155403532267c47a5bb9336b077bb00a81e1278affa1464135"
 metafile = true
 
 [[files]]
