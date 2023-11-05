@@ -294,6 +294,11 @@ hash = "ea14e6e2403900d059a427f5248360ea2fa41f2dc491bfcc2006b80a0da9bd03"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "259636601b21c7ae999f27ea087149a9a004cb7c688ca6b37c63f0e2d81ed1f9"
 metafile = true
@@ -361,11 +366,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "64165e55ecf339c0603ccbf7d7eaf68fdbff2cb4a8a87830f531900740246f7d"
-metafile = true
-
-[[files]]
-file = "mods/extreme-reactors.pw.toml"
-hash = "57824f69d1832dc2f6a98c48c784a7f7f080a111cf2be3329ed36cd502f2c6d9"
 metafile = true
 
 [[files]]
@@ -574,6 +574,11 @@ hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "77617d319507647b2e2ea31ead65fd936ff54e96a124cc24f39ec0fcfd6563ea"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "47c77ec7ca03c9e32a1dbcb815114e6becf0fd8d9519dfb3b9264115ea7cb1ce"
 metafile = true
@@ -701,11 +706,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "320c9cf7ee561d4d8d2ce26fbd64f9d11bc977024d627ae170bed2e0facbed35"
-metafile = true
-
-[[files]]
-file = "mods/zerocore.pw.toml"
-hash = "1aff3be39eccf3b042e8279b38c457b48d350e32eee8e4cce9d11455d636c34d"
 metafile = true
 
 [[files]]
