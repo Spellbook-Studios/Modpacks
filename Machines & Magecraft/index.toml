@@ -348,12 +348,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "022a9a1017ffcf3ddd00867b05529d90d1e89ba0928f65f71f4788f889831231"
+hash = "7df65dc51b6f723fe2c3bcb060510f89da8dbca4bb13292d48c9254b69972c96"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c0e22e29bd5ad71f2f9a1a218e291d19388f31f968e71db04593000aefca4e80"
+hash = "84a6e8164651e25938442ebb8d313e22d13f56be527641782ac9d42fdb2baf25"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6c02624ffcc252a38d6cb8542258731368135d45c90b82cb8b19d984daccec04"
+hash = "2f8b7d88ace3dbd90c0536b924d36ecb6056769d9772ae1b1f1c3adf9b2409e5"
 metafile = true
 
 [[files]]
@@ -583,12 +583,12 @@ metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
-hash = "77617d319507647b2e2ea31ead65fd936ff54e96a124cc24f39ec0fcfd6563ea"
+hash = "bc0eb25b2b06890a328c7f56a927a840901fc6dec10e33d43a29112b03ae724e"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "48cda0a893abd6fb996664dae380a8fb5213587530ded3199b0a4011cd5be8bc"
+hash = "1ef3bfa6556e468a3a2a022b6249c0b3e285bf939ea75e6809bf5b7673d8246b"
 metafile = true
 
 [[files]]
@@ -603,12 +603,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "4bb2e7da5c312396ede28805f7092afac73370c63a4fe8e28e7bfbdc3812185a"
+hash = "45d3179e1feff16649dab48ed6e28bf6e0c7d18940f72d3185afe25bf2acca4d"
 metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "c4be54a675417af1a25d8b53f7250e45b6549a5387dfa5224d524eaa535741a1"
+hash = "526e1b69309d613b5e5aabd05b91f974c2797f1d5d1c17f6f7255f0629fe703c"
 metafile = true
 
 [[files]]
@@ -619,6 +619,11 @@ metafile = true
 [[files]]
 file = "mods/saturn-backpacks.pw.toml"
 hash = "71870b2e638580ec753dbce959d46d3d982ea79ddb9e91cc954517361e58d037"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "d250747a28c2b5e478792fc071bd4c603f06e0853af2cbe4d827124cc971ce83"
 metafile = true
 
 [[files]]
