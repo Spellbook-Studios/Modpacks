@@ -5,3 +5,5 @@
 README.md
 *.mrpack
 art/
+modlist.md
+.packwizml.cache
