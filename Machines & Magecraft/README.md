@@ -1,15 +1,23 @@
+<details>
+<summary>PrismLauncher Users, pls update to 8.0</summary>
+This modpack is made with NeoForge, and PrismLauncher versions prior to 8.0 doesn't support this.
+When using an oudated launcher the launcher might just download forge og nothing at all, and i cannot guarantee that the modpack will work in such cases.
+Please update the launcher :D
+</details>
+
 ![Machines & Magecraft](https://web-static.sebsa.dk/spellbook-dev/Machines-Magecraft-Title.png)
 <center><span><strong><font size=5>Machines & Magecraft</font></strong> for NeoForge 1.20.1</span></center>
 <center><span><strong>Features</strong></span></center>
 
 - Journey the worlds beyond with Ad Astra, explore the vastness of space and conquer the challanges within
-- Powerfull storage mods like: Functional Storage & Applied Energistics
+- Expand to your hearts desires with the help from powerfull storage mods like: Functional Storage & Applied Energistics 2
 - Tame the raw power of magic with Ars Nouvea, Ocultism, Irons Spellbook and Blood Magic
-- Create lore friendly contraptions using Create and many of it's addons
+- **Create** the sickest friendly contraptions using Create and many of it's addons
 - Explore a world full of delight as you journey through your own Culinary Adventures with Farmers Delight and more!
-- Automative everything with tech mods as Ender IO, Mekanism & Compuer Craft
+- Automative everything with tech mods such as Ender IO, Mekanism & Compuer Craft
 - Use Mystical Agriculture to farm **everything**
-- Adventure through the vast Overworld, Nether and End, with hundreds of new structures.
+- Adventure through the vast Overworld, Nether and End, like never before with Terralith
+- Battle through the many new overworld structures and usurp their treasures with in.
 - Get some POWAH!
 - Play Minecraft like never before with many QOL, Performnace, and Utility mods
 
