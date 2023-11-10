@@ -78,15 +78,15 @@ hash = "5f6eaee49b776c3ea8d28a8683b38791ffd8450dea9348185ef239a9c01af41e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/0_the_basics.snbt"
-hash = "8868888bc495309cb05744eefe3858c61b107623a9061660472d781b1ad3f8fa"
+hash = "d7bf3b7e482cfa01818d4a46cc9d08eebbc9e85f4e11be0c43b47723310f0fd1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/1_drawers.snbt"
-hash = "69358a8617da2b4376e6c6569d5b477e401ab9c808a8b44cfde50752d6e4873c"
+hash = "cf17c0554fc9388634555143cdb65c44bc84ac229990f9057df1cc8c7edf82b2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/2_iron_spellbooks.snbt"
-hash = "4d54be5e412b002d44d5a5a454bb77e7cdc964ef5b180dcdef7147d83bc101d5"
+hash = "4b1ccfa0b6891f7ffe7846307c014c059d560073e78a765e3d3880c9202659d7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ad_astra.snbt"
@@ -151,6 +151,14 @@ hash = "e0fca9ebec068ccad72985617f1e94520efb87eaeb219acfe1a59782d55c3d1c"
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "4da9a893ddd5672427a9604000b1f708344512ea755dcc9d0c3fc2345c452dd1"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/dryable.snbt"
+hash = "104966c0ef67f02960302cf226d9602f494b9d2b6945307e267d2efca764cb10"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/hats.snbt"
+hash = "54a78f2e302c0a70eb8ae01d3bc57045ab69e1944faf91e2130820da3f1688a4"
 
 [[files]]
 file = "config/mysticalagriculture-common.toml"
