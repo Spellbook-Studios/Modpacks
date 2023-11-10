@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "4f264411b8d14add9122bb4537aeccdc94bfa2f98a02c28d0c52cdc6332f114a"
+hash = "72173fa63f42f18d597614b1188b16f7d46bf2a1dc116bf38b5eb57ced773969"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2f8b7d88ace3dbd90c0536b924d36ecb6056769d9772ae1b1f1c3adf9b2409e5"
+hash = "a72f3eef339eccf9ee1288691892f7db1294a35c78b7c69c71550856b43137b5"
 metafile = true
 
 [[files]]
