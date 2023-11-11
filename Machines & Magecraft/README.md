@@ -17,7 +17,7 @@ Please update the launcher :D
 - Automative everything with tech mods such as Ender IO, Mekanism & Compuer Craft
 - Use Mystical Agriculture to farm **everything**
 - Adventure through the vast Overworld, Nether and End, like never before with Terralith
-- Battle through the many new overworld structures and usurp their treasures with in.
+- Battle through the many new overworld structures and usurp their treasures with in. (With Lootr)
 - Get some POWAH!
 - Play Minecraft like never before with many QOL, Performnace, and Utility mods
 

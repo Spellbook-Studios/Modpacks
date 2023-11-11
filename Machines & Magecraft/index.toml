@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "changes.md"
+hash = "931be32d6dbcc9243c8b94274586a49ae789f03e078808935f0ac70192113cb9"
+
+[[files]]
 file = "config/Mekanism/common.toml"
 hash = "dab6dbae43bb67fd6a10438c0cbf997c70560c6af3493b60330ac9248587905d"
 
@@ -165,6 +169,10 @@ file = "config/mysticalagriculture-common.toml"
 hash = "33edb60bf8bfa201030601b89d96b81decc52af6d80307ca1bd43263aeb5db01"
 
 [[files]]
+file = "config/powah.json5"
+hash = "d0841745b1c206f25128bcd7271d363a39958201d90edc4528203df8244e0c71"
+
+[[files]]
 file = "global_packs/required_resources/Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip"
 hash = "6d12fb6d13d365387928317c6687a56cdec539ec217d1e7e1793b62f58d78c65"
 
@@ -233,6 +241,10 @@ file = "kubejs/server_scripts/recipie_stacks_plates.js"
 hash = "c7749d1fb9bc60664147b4a599e8343a3ba1069fcddf1366cda9d522868c74e2"
 
 [[files]]
+file = "kubejs/server_scripts/remove_powah.js"
+hash = "6adde509ac21db09bfb2edc7ba1890d934ede268b9f4a71aa97a9a920b1db072"
+
+[[files]]
 file = "kubejs/startup_scripts/hammers.js"
 hash = "ab04193de2f1e0ff1ff9335108771a520f84b4602c694e33aa9fae3db92da694"
 
@@ -251,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ec9bb2c5074be03ad24bd4a73efe31fa2ca78ab9d34349257b4a58a6ee91a848"
+hash = "28ab3346804eee584b003ae4a71b09d87612ed662a7e24a030cf219706bbbd2f"
 metafile = true
 
 [[files]]
@@ -515,8 +527,8 @@ hash = "732542278871834232b2888716791c81a64ef87824f179230c36d2e180d5f88f"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-generators.pw.toml"
-hash = "80641cc59b2aa3109544fe68e82fe8428cb5ab304f6fd69a79c5cc84aa3019cc"
+file = "mods/lootr.pw.toml"
+hash = "62a04f328dfb306c391318585e11dbc1e0a3c1c14e3503b54d3fd390ef34b556"
 metafile = true
 
 [[files]]
@@ -532,6 +544,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "84544cd39f7350f2e9a8c845c97969eeb1fb9dd7505c40ff30c66bf69b29898f"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "bfbf0702a94ffb84a45158abccc21177e9ab4c094bad66b995bd7a7263425c84"
 metafile = true
 
 [[files]]
@@ -630,6 +647,11 @@ hash = "71870b2e638580ec753dbce959d46d3d982ea79ddb9e91cc954517361e58d037"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "c85ee74b78c2ccf8668ce8d66147231e999712218dde0bb719353616864800a6"
+metafile = true
+
+[[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "d250747a28c2b5e478792fc071bd4c603f06e0853af2cbe4d827124cc971ce83"
 metafile = true
@@ -712,6 +734,11 @@ metafile = true
 [[files]]
 file = "mods/yaam.pw.toml"
 hash = "287cc56b3cbca4aaa3afdedc255ee03edb8e3fbdd5c4e83e9246eaf514953253"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5d9a0fbad5a23306da09dc524b698ad7fa00b27637a8bbbb4e11fca8c3700d36"
 metafile = true
 
 [[files]]
