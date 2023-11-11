@@ -1,3 +1,6 @@
+## 1.0.0-beta6
+ * Fix modrinth incendium-optional-resourcepack packaging
+
 ## 1.0.0-beta5
 ### Mods
  * Added Lootr

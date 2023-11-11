@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changes.md"
-hash = "931be32d6dbcc9243c8b94274586a49ae789f03e078808935f0ac70192113cb9"
+hash = "58a61b1c528ac0743f9700b75aad705c1e3f139b5f36418dcda1c5de0c9cead8"
 
 [[files]]
 file = "config/Mekanism/common.toml"
@@ -173,8 +173,9 @@ file = "config/powah.json5"
 hash = "d0841745b1c206f25128bcd7271d363a39958201d90edc4528203df8244e0c71"
 
 [[files]]
-file = "global_packs/required_resources/Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip"
-hash = "6d12fb6d13d365387928317c6687a56cdec539ec217d1e7e1793b62f58d78c65"
+file = "global_packs/required_resources/incendium-optional-resourcepack.pw.toml"
+hash = "ef7eeaf34f1110b22e75a1bcd43ccb9c23bc1ffadf5952b222912d900a535bf8"
+metafile = true
 
 [[files]]
 file = "journeymap/config/5.9/journeymap.minimap.config"
