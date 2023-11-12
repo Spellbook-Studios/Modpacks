@@ -1,0 +1,40 @@
+{
+  "settings": {},
+  "dependencies": [
+    "02C62958C3933586"
+  ],
+  "tasks": {
+    "582FB83F94900C01": {
+      "title": "Irons Spellbook",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Irons Spells n' Spellbooks",
+    "description": [
+      "<subtitle id=\"0FC75DF4031326E5\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"582FB83F94900C01\" quest=\"0FC75DF4031326E5\"/>",
+      "<hr/>",
+      "Irons Spellbook is the easiest way to start you mage journey.",
+      "As the modpack progresses you will learn of more complex and powerfull magic systems.",
+      "But for now, head onto the \"Irons Spells n' Spellbooks\" catagory to get started"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "irons_spellbooks:diamond_spell_book"
+    },
+    "subtitle": {
+      "text": "Doing something magical"
+    },
+    "groups": {
+      "0. Machines & Magecraft": {
+        "position": [
+          80,
+          -48
+        ]
+      }
+    }
+  }
+}

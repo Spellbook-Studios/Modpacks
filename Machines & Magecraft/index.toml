@@ -77,92 +77,24 @@ file = "config/fml.toml"
 hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
 
 [[files]]
-file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "5f6eaee49b776c3ea8d28a8683b38791ffd8450dea9348185ef239a9c01af41e"
+file = "config/heracles/groups.txt"
+hash = "fab6c86e5460cf569896670f07964dd22e478422360eb611ef5a1b36d7beb69b"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/0_the_basics.snbt"
-hash = "d7bf3b7e482cfa01818d4a46cc9d08eebbc9e85f4e11be0c43b47723310f0fd1"
+file = "config/heracles/quests/0machinesmagecraft/02C62958C3933586.json"
+hash = "a10573a55818a053cb0efd56e86ecfee1a4959991d2b4ca121a558fd8bb4431e"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/1_drawers.snbt"
-hash = "cf17c0554fc9388634555143cdb65c44bc84ac229990f9057df1cc8c7edf82b2"
+file = "config/heracles/quests/0machinesmagecraft/0FC75DF4031326E5.json"
+hash = "9ea15a1e474147be70ee5a9bd3ad6d8ec18e4ecb6085d5f447ab210e6e311bd8"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/2_iron_spellbooks.snbt"
-hash = "4b1ccfa0b6891f7ffe7846307c014c059d560073e78a765e3d3880c9202659d7"
+file = "config/heracles/quests/0machinesmagecraft/28C672424B29EFBA.json"
+hash = "d781abf472681c792b8d10a43bf4f8b996b84b947566317bd210c5c21afd5a44"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/ad_astra.snbt"
-hash = "440370be741f3c89ed4afe3a04852cbd4f833ee7473dbe760e6cd7edce32e7cd"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/applied_energistics.snbt"
-hash = "e6707d67f3301c8ed51003bfaedc1350738688914c6cb22707a7f1df7055eebd"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/ars_noveau.snbt"
-hash = "cccec2d9815347f1bd28768d4d073ab563ffcabeb66a3af729c191484b6f6e5d"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/backpack.snbt"
-hash = "5053876b34d7b3795e6cb5f855975a1174763b49143ae66bbaa4cd98d0aaf71e"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/blood_magic.snbt"
-hash = "989d7c80e518d1f5810eeebd7b78f887e6c5b8e6dade77f691429dc36d3f12d2"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "ec31ca2e59ead567ae2338f58a53e28455b0ca4288d01c401b3fa3653520dc19"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/ender_io.snbt"
-hash = "67de10a7b5a14a282861b5641de16dd82cddf094dd55ebb7485685f429bc6223"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
-hash = "101dcd5d4e8cfb47c6e1420388a3a0c71afa10f9c6e88be0df85564894fc88ac"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/food.snbt"
-hash = "ad3f7bcd2cf13a43471ba1f5270a3057b8f3bd79c7a744ebf6c958178c64dd88"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/mekanism.snbt"
-hash = "4b11f8943a0f5afe8bd7f281d792b0b7c638b1170cdb794857f31b3a728ef754"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/mystical_agriculture.snbt"
-hash = "aa2cd431668b38b79cf4bb818c411c92a2f68a5853b72edb554ac3fcf84eadd4"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/occultism.snbt"
-hash = "14b6286c99cd60771f5edd230171fd00c40709f0a96c0bd304e83e7a4d62e58e"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/powah.snbt"
-hash = "d7e363a99b878a47799187ae891c61a5d4924a5375abaf1a7cfd20ace3ecf261"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/thermal.snbt"
-hash = "628276cd4189909a6772a3b9fbc197862958058f4b357b7e712647bc188bed52"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/twlight.snbt"
-hash = "e0fca9ebec068ccad72985617f1e94520efb87eaeb219acfe1a59782d55c3d1c"
-
-[[files]]
-file = "config/ftbquests/quests/data.snbt"
-hash = "4da9a893ddd5672427a9604000b1f708344512ea755dcc9d0c3fc2345c452dd1"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/dryable.snbt"
-hash = "104966c0ef67f02960302cf226d9602f494b9d2b6945307e267d2efca764cb10"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/hats.snbt"
-hash = "54a78f2e302c0a70eb8ae01d3bc57045ab69e1944faf91e2130820da3f1688a4"
+file = "config/heracles/quests/0machinesmagecraft/5798437894BD08FD.json"
+hash = "8e29b8d3b00ba79a81e5e37d8b62c04210d9eb3a9342d68f32649d9d4cd96514"
 
 [[files]]
 file = "config/mysticalagriculture-common.toml"
@@ -171,6 +103,14 @@ hash = "33edb60bf8bfa201030601b89d96b81decc52af6d80307ca1bd43263aeb5db01"
 [[files]]
 file = "config/powah.json5"
 hash = "d0841745b1c206f25128bcd7271d363a39958201d90edc4528203df8244e0c71"
+
+[[files]]
+file = "global_packs/required_data/machines & magecraft/data/mm/loot_tables/hats.json"
+hash = "bab3a539056ca1462ec11cafe323104b43a65b31ade2af87a92a2b59bb36ccbb"
+
+[[files]]
+file = "global_packs/required_data/machines & magecraft/pack.mcmeta"
+hash = "56640faebe498184d573ca910b1ee4b2581c5e547058d024195ef1c40ba658b4"
 
 [[files]]
 file = "global_packs/required_resources/incendium-optional-resourcepack.pw.toml"
@@ -275,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
+metafile = true
+
+[[files]]
+file = "mods/argonauts.pw.toml"
+hash = "5ccdd57e61e06b07c64fc2e16177c8b103c93062ef615041d669121e6273011f"
 metafile = true
 
 [[files]]
@@ -413,31 +358,6 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "0ae4f7b303a967a971ef24784e08ab1f859a6148c45d2950c72767849cda19cc"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-forge.pw.toml"
-hash = "8f1fb9a6aaf505e1c42e12c5f7738e99f5ecc3bd9f3bf9d06dc0a56200df7d45"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ultimine-forge.pw.toml"
-hash = "ccc676f2fe83d77631fda1cc9ee4f1888d5ae4790f9777b0075f820d71dee3a0"
-metafile = true
-
-[[files]]
-file = "mods/ftb-xmod-compat.pw.toml"
-hash = "96e04f276edbfb5d50d88a7dbd6268b61fb37fc02110b96d6fa7c4d4fe45b092"
-metafile = true
-
-[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "25fb2ae31f331531f0aca989f2b33a5c279a339ff8bea2f9c0547159df99088b"
 metafile = true
@@ -463,6 +383,11 @@ hash = "7b460acaa50fb6814f31028a47d6e885c0faf7b6fe1f3d303eec85314920147a"
 metafile = true
 
 [[files]]
+file = "mods/heracles.pw.toml"
+hash = "c7bdc90d406f39fc542c77e262baaaa76147ca9e64ce35582fc04f99f6e2ef06"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
@@ -475,11 +400,6 @@ metafile = true
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "6703efdd559ee8b8b41acf13f50b1b217b46861e2fb8ffd50aaaaca7f999f464"
-metafile = true
-
-[[files]]
-file = "mods/item-filters.pw.toml"
-hash = "fdf3861309e0c5e87fba58671665a2c5e8a7482d06b7a1c8f9df9d6bcff5205f"
 metafile = true
 
 [[files]]
@@ -698,11 +618,6 @@ hash = "f76a3b5b2df7cc7707b1b0de586af8175072ecb757a96c5b5aac2b4046b7335a"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "5a33360c268b8280c03f127923031171c978103b98536794318203305deb28a0"
-metafile = true
-
-[[files]]
 file = "mods/titanium.pw.toml"
 hash = "837c4654295667333f7c0945c860282614ab698154bf9da55523b4f8dd995748"
 metafile = true
@@ -715,11 +630,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "d2f97782c59444f861c4713802eeae2dd36ba7180d169c2334c59913cb06c716"
-metafile = true
-
-[[files]]
-file = "mods/twilight-delight.pw.toml"
-hash = "086365f8056548d8e8c9aab123f7d1f7c6e7375f3a1879e5e049a1ec93887125"
 metafile = true
 
 [[files]]

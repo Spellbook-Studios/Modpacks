@@ -1,0 +1,32 @@
+{
+  "settings": {},
+  "dependencies": [
+    "02C62958C3933586"
+  ],
+  "tasks": {
+    "2E56F11EBE3103DE": {
+      "title": "Drawers",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Drawers",
+    "description": [
+      "<task task=\"2E56F11EBE3103DE\" quest=\"28C672424B29EFBA\"/>",
+      "<hr/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "functionalstorage:mangrove_2"
+    },
+    "groups": {
+      "0. Machines & Magecraft": {
+        "position": [
+          0,
+          -80
+        ]
+      }
+    }
+  }
+}

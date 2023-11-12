@@ -1,0 +1,13 @@
+name = "Argonauts"
+filename = "argonauts-forge-1.20.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bb2EpKpx/versions/mBXCaPlN/argonauts-forge-1.20.1-1.0.6.jar"
+hash-format = "sha1"
+hash = "eaf6381546214c8ff9cc7d07e2a51cbfaef61f66"
+
+[update]
+[update.modrinth]
+mod-id = "bb2EpKpx"
+version = "mBXCaPlN"

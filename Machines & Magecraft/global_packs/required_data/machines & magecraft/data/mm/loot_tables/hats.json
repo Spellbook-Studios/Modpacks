@@ -1,0 +1,50 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "simplehats:hatbag_common"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "simplehats:hatbag_uncommon"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "simplehats:hatbag_rare"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "simplehats:hatbag_epic"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "simplehats:hatbag_easter"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "simplehats:hatbag_summer"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "simplehats:hatbag_halloween"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "simplehats:hatbag_festive"
+          }
+        ]
+      }
+    ]
+  }
+  

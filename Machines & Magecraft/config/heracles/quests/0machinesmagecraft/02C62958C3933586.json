@@ -1,0 +1,57 @@
+{
+  "settings": {},
+  "tasks": {
+    "4C79067F628EC776": {
+      "title": "Hello!",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "hello_loot": {
+      "title": "Take a Hat!",
+      "icon": {
+        "item": {
+          "id": "simplehats:hatbag_easter",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "loot_table": "mm:hats",
+      "type": "heracles:loottable"
+    }
+  },
+  "display": {
+    "title": "Hello!",
+    "description": [
+      "<subtitle id=\"02C62958C3933586\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"4C79067F628EC776\" quest=\"02C62958C3933586\"/>",
+      "<hr/>",
+      "HI!",
+      "<br/>",
+      "Welcome to Machines & Magecraft.",
+      "<br/>",
+      "We kiiinda assume that you know how to play MC by know, so theese quests will only help you with modded concepts, blocks and tools.",
+      "To get started with quests, complete the quests in this catagory to unlock the other catagories.",
+      "<br/>",
+      "Good Luck!",
+      "<br/>",
+      "&&oAlso take this hat :D"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:green_wool"
+    },
+    "subtitle": {
+      "text": "My name is elder priest..."
+    },
+    "groups": {
+      "0. Machines & Magecraft": {
+        "position": [
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

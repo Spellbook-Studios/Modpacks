@@ -1,0 +1,83 @@
+{
+  "settings": {},
+  "dependencies": [
+    "02C62958C3933586"
+  ],
+  "tasks": {
+    "56463D337D42F4E5": {
+      "type": "heracles:item",
+      "item": "yaam:drying_rack"
+    }
+  },
+  "rewards": {
+    "6F6F2D57A4DC3485": {
+      "type": "heracles:selectable",
+      "rewards": {
+        "6F6F2D57A4DC3485_0": {
+          "type": "heracles:item",
+          "item": {
+            "id": "minecraft:wet_sponge",
+            "count": 8
+          }
+        },
+        "6F6F2D57A4DC3485_1": {
+          "type": "heracles:item",
+          "item": {
+            "id": "minecraft:mutton",
+            "count": 8
+          }
+        },
+        "6F6F2D57A4DC3485_2": {
+          "type": "heracles:item",
+          "item": {
+            "id": "minecraft:acacia_log",
+            "count": 8
+          }
+        },
+        "6F6F2D57A4DC3485_3": {
+          "type": "heracles:item",
+          "item": {
+            "id": "minecraft:rotten_flesh",
+            "count": 8
+          }
+        }
+      }
+    }
+  },
+  "display": {
+    "title": "The Drying Rack",
+    "description": [
+      "<subtitle id=\"5798437894BD08FD\" bold=\"true\" centered=\"true\" color=\"lightgray\"/>",
+      "<hr/>",
+      "<task task=\"56463D337D42F4E5\" quest=\"5798437894BD08FD\"/>",
+      "<hr/>",
+      "The Drying Rack, allows you to hang items to dry.",
+      "<br/>",
+      "As of writing, you can",
+      " * Dry Sponges",
+      " * Dry Rotten Flesh to Leather",
+      " * Dry Apples to make Apple Slices",
+      " * Dry Meat to get Jerky (Just a little bit better then raw meat)",
+      " * Dry Logs into Firewood which burns better then 4 planks usually does",
+      "<br/>",
+      "Make the Drying Rack and try it!",
+      "<hr/>",
+      "<reward reward=\"6F6F2D57A4DC3485\" quest=\"5798437894BD08FD\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "yaam:drying_rack"
+    },
+    "subtitle": {
+      "text": "Not from TC"
+    },
+    "groups": {
+      "0. Machines & Magecraft": {
+        "position": [
+          -80,
+          -48
+        ]
+      }
+    }
+  }
+}

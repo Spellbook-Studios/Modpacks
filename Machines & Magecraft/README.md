@@ -17,9 +17,10 @@ Please update the launcher :D
 - Automative everything with tech mods such as Ender IO, Mekanism & Compuer Craft
 - Use Mystical Agriculture to farm **everything**
 - Adventure through the vast Overworld, Nether and End, like never before with Terralith
-- Battle through the many new overworld structures and usurp their treasures with in. (With Lootr)
+- Battle through the many new overworld structures and usurp their treasures with in.
 - Get some POWAH!
 - Play Minecraft like never before with many QOL, Performnace, and Utility mods
+- AND blaze through the many new mods with the help of the quest book
 
 <center><span><font size=4>Join our Discord: <a href="discord.gg/Ypc2dcC3gd">discord.gg/Ypc2dcC3gd</a></font></span></center>
 <center><span><strong>Mods in Use</strong></span></center>
@@ -28,6 +29,7 @@ Please update the launcher :D
 - [Applied Energistics 2](https://modrinth.com/mod/XxWD5pD3) - AE2: A popular automation and storage mod
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) - Food/hunger-related HUD improvements
 - [Architectury API](https://modrinth.com/mod/lhGA9TYQ) - An intermediary api aimed to ease developing multiplatform mods.
+- [Argonauts](https://modrinth.com/mod/bb2EpKpx) - A guild and party mod to work and play together with your teammates on a server!
 - [Ars Nouveau](https://modrinth.com/mod/TKB6INcv) - Craft spells and construct magical automations
 - [Ars Ocultas](https://modrinth.com/mod/Tsw8vbks) - Ars Nouveau Integration for Occultism
 - [Athena](https://modrinth.com/mod/b1ZV3DIJ) - A crossplatform (Forge/Fabric) solution to connected block textures for 1.19.4+
@@ -60,6 +62,7 @@ Please update the launcher :D
 - [Geckolib](https://modrinth.com/mod/8BmcQJ2H) - A 3D animation library for entities, blocks, items, armor, and more!
 - [Global Packs](https://modrinth.com/mod/NRLPy2mk) - Ship default Data- & Resourcepacks with Modpacks!
 - [Handcrafted](https://modrinth.com/mod/pJmCFF0p) - Make your house a home!
+- [Heracles](https://modrinth.com/mod/lo90fZoB) - A tree-style questing mod, allowing pack makers to make and include completable quests for their players
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) - Speed up immediate mode rendering in Minecraft
 - [Incendium](https://modrinth.com/mod/ZVzW5oNS) - Incendium is a datapack that completely revamps the nether, way more than what Minecraft did in the 1.16 Nether Update.
 - [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/s4OWxYQQ) - A magic mod bringing back the classic RPG spellcasting fantasy. (irons spells and spellbooks)
@@ -72,10 +75,11 @@ Please update the launcher :D
 - [KubeJS](https://modrinth.com/mod/umyGl7zF) - Edit recipes, add new custom items, script world events, all in JavaScript!
 - [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) - Quick leaf decay from cutting down trees. Built for fast performance and mod compat!
 - [Lighty](https://modrinth.com/mod/yjvKidNM) - The Light Overlay Mod with a twist!
-- [Mekanism Generators](https://modrinth.com/mod/OFVYKsAk) - Advanced energy generation for Mekanism.
+- [Lootr](https://modrinth.com/mod/EltpO5cN) - A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.
 - [Mekanism](https://modrinth.com/mod/Ce6I4WUE) - High-tech machinery, powerful energy generation, fancy gadgets and more. Now on Modrinth!
 - [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) - A mod that fixes random memory leaks for both the client and server
 - [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) - Target Dummy that show damage dealt and can be equipped with armor
+- [ModernFix](https://modrinth.com/mod/nmDcB62a) - All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!
 - [Modonomicon](https://modrinth.com/mod/692GClaE) - Modonomicon is an in-game documentation mod inspired by Thaumcraft's Thaumonomicon and Patchouli, and aims to provide the best of both, with some unique flavors.
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) - dynamic data pack and registration, villager activities, custom map marker and a lot more
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) - Enhances inventory management by adding various functions to the mouse buttons. 
@@ -93,7 +97,7 @@ Please update the launcher :D
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) - Resourceful Lib
 - [Rhino](https://modrinth.com/mod/sk9knFPE) - A fork of Mozilla's Rhino library, modified for use in mods
 - [Rubidium Extra](https://modrinth.com/mod/oY2B1pjg) - Port of Sodium Extra to work with Embeddium/Rubidium on FML
-- [Saturn's Backpacks](https://modrinth.com/mod/u1PoOw3n) - This mod adds two backpacks to the game in a vanilla friendly way and also keeping in mind that players tend to use shulker boxes for storage in the end-game!
+- [SecurityCraft](https://modrinth.com/mod/v8jzRtAt) - Adds plenty of blocks and items to defend and secure your base with.
 - [Simple Hats](https://modrinth.com/mod/iSkQCp6b) - Simple Hats is an expandable cosmetic hat mod that allows users to define their own hats with options such as variants, dyes, particle effects, and seasons.
 - [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) - Making automation for Farmers Delight more sensible
 - [SmartBrainLib](https://modrinth.com/mod/PuyPazRT) - A brain library for Minecraft, making the brain system easier to use and manage
@@ -106,19 +110,13 @@ Please update the launcher :D
 - [Titanium](https://modrinth.com/mod/1Ro7m06l) - A shared library mod for Innovative Online Industries's mods
 - [Tome of Blood: Rebirth](https://modrinth.com/mod/W5NORTN9) - Ars Nouveau Integration for Blood Magic. Spiritual successor of Tome of Blood by SadieLuna
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) - The official port of Adventure Backpack
-- [Twilight's Flavor & Delight](https://modrinth.com/mod/d6cSefpO) - This mod adds food and desserts from Twilight Forest in Farmer's Delight and Neapolitan style.
 - [Waystones](https://modrinth.com/mod/LOpKHB2A) - Teleport back to activated waystones. For Survival, Adventure or Servers.
 - [WTHIT](https://modrinth.com/mod/6AQIaxuO) - What the hell is that?
 - [Yet Another Additions Mod](https://modrinth.com/mod/avq72s6C) - Adds an assortment of neat feature full blocks and items
+- [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) - Disable's the Experimental Settings popup, which appears when you create or load world.
 - [YUNG's API](https://modrinth.com/mod/Ua7DFN59) - Library mod for YUNG's mods.
 - [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) - A complete redesign of Minecraft's desert temples!
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) - A complete redesign of Minecraft's Nether fortresses!
 - [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq) - Extra structures, features, and vanilla+ content suitable for any modpack!
-- [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) - Common code for all GUI stuff in FTB Mods
-- [FTB Quests (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) - Questing Mod by FTB
-- [FTB Teams (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) - Library for mods that can utilize team progression
-- [FTB Ultimine (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) - Harvest multiple blocks at once
-- [FTB XMod Compat](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat) - Official multi-mod integrations support for the FTB Mods
-- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters) - Item Filters is a library mod that is used by mods like FTB Quests. It adds several filter items that let you precisely select which items to match.
+- [Saturn's Backpacks](https://modrinth.com/mod/u1PoOw3n) - This mod adds two backpacks to the game in a vanilla friendly way and also keeping in mind that players tend to use shulker boxes for storage in the end-game!
 - [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator) - Port of OpenBlocks Elevator.
-- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) - A realm basked in mystery and eerie twilight, you will overpower terrifying creatures and secure the adventure of a lifetime; in the Twilight Forest.
