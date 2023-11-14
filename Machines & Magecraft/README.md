@@ -48,12 +48,14 @@ Please update the launcher :D
 - [CTOV - Iron's Spells 'n Spellbooks compat](https://modrinth.com/mod/B8XiXauo) - Compatibility datapack between CTOV and Iron's Spells 'n Spellbooks mod
 - [Cucumber Library](https://modrinth.com/mod/Rw1NrDzF) - A library of shared code and functionality used by my mods.
 - [Curios API](https://modrinth.com/mod/vvuO3ImH) - A flexible and expandable accessory/equipment API for users and developers.
+- [Default Options](https://modrinth.com/mod/WEg59z5b) - A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file.
 - [Embeddium](https://modrinth.com/mod/sk9rgfiA) - A reliable fork of Sodium for Forge that focuses on compatibility
 - [EMI](https://modrinth.com/mod/fRiHVvU7) - A featureful and accessible item and recipe viewer
 - [Ender IO](https://modrinth.com/mod/49ZofO4f) -  Ender IO is a full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc. 
 - [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) - EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge.
 - [Entity Culling](https://modrinth.com/mod/NNAgCjsB) - Using async path-tracing to hide Block-/Entities that are not visible
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) - Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric
+- [Excavar](https://modrinth.com/mod/u86oU2cO) - A lightweight excavation mod for modern Minecraft versions
 - [FancyMenu](https://modrinth.com/mod/Wq5SjeWM) - Minecraft menus, but much more fancy! Customize menu screens with animations, buttons, texts, images and more!
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) - A cozy expansion to farming and cooking!
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) - Memory usage optimizations
@@ -97,6 +99,7 @@ Please update the launcher :D
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) - Resourceful Lib
 - [Rhino](https://modrinth.com/mod/sk9knFPE) - A fork of Mozilla's Rhino library, modified for use in mods
 - [Rubidium Extra](https://modrinth.com/mod/oY2B1pjg) - Port of Sodium Extra to work with Embeddium/Rubidium on FML
+- [Saturn's Backpacks](https://modrinth.com/mod/u1PoOw3n) - This mod adds two backpacks to the game in a vanilla friendly way and also keeping in mind that players tend to use shulker boxes for storage in the end-game!
 - [SecurityCraft](https://modrinth.com/mod/v8jzRtAt) - Adds plenty of blocks and items to defend and secure your base with.
 - [Simple Hats](https://modrinth.com/mod/iSkQCp6b) - Simple Hats is an expandable cosmetic hat mod that allows users to define their own hats with options such as variants, dyes, particle effects, and seasons.
 - [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) - Making automation for Farmers Delight more sensible
@@ -118,5 +121,4 @@ Please update the launcher :D
 - [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) - A complete redesign of Minecraft's desert temples!
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) - A complete redesign of Minecraft's Nether fortresses!
 - [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq) - Extra structures, features, and vanilla+ content suitable for any modpack!
-- [Saturn's Backpacks](https://modrinth.com/mod/u1PoOw3n) - This mod adds two backpacks to the game in a vanilla friendly way and also keeping in mind that players tend to use shulker boxes for storage in the end-game!
 - [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator) - Port of OpenBlocks Elevator.

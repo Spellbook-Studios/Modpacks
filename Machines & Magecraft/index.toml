@@ -1,8 +1,56 @@
 hash-format = "sha256"
 
 [[files]]
+file = "art/Logo.jpg"
+hash = "00f010f5be3ea456423aa67766c11d7cb5d1fd93a4b9622b7be6149c916cfda4"
+
+[[files]]
+file = "art/Logo.xcf"
+hash = "237e52461d36b4f54627b399d6b093dc63823538add865d51363f7ccc0b738c5"
+
+[[files]]
+file = "art/Machines & Magecraft Title Bg.png"
+hash = "5fca02999ed87056f2aa991cf79378f6465ea71f94588dfe0a65479abb97a1c4"
+
+[[files]]
+file = "art/Machines & Magecraft Title Bg.xcf"
+hash = "27b02bbe3df39e38cd3ccfc8e7100714a01e9290f232e2784d1329cdd34ed53c"
+
+[[files]]
+file = "art/Machines & Magecraft Title No Bg.xcf"
+hash = "c8c158c876cc38be7ff33163a27fb9babe04243bdc2d2384274918cfc74957c6"
+
+[[files]]
+file = "art/Machines & Magecraft Title.png"
+hash = "546be79af6a648efacb6e2a0b1ba50f1500b5ec6eff9938fb6dbe2018289b949"
+
+[[files]]
+file = "art/Machines & Magecraft Title.xcf"
+hash = "8bcfcaec5a0dcec1004611a09afe5b6f5558745098bfdb248e26ed5ffcd330b9"
+
+[[files]]
+file = "art/item_plate_dark_steel.xcf"
+hash = "c4152574da4cb022ca536aeaae55b2ee8f68633a61d1429d9a753221a6c798c8"
+
+[[files]]
+file = "art/item_stack_copper_ingot.xcf"
+hash = "bdf2d00e67378590e6ec249de26d25182c3f25fa3f9ea546b62a8e3ac7c6f175"
+
+[[files]]
+file = "art/item_stack_dark_steel_ingot.xcf"
+hash = "b568228bf6d7345a443bcb53014ab65e242a2df7f86a03f0ca73fff149fc2848"
+
+[[files]]
+file = "art/item_stack_iron_ingot.xcf"
+hash = "1d4119120f5a31d32bbc6929ebbf61f035d81b685a28cf17edc434e759e4ef13"
+
+[[files]]
+file = "art/machines_magecraft_title_no_bg.png"
+hash = "63e9b532a172d80386ec492b5464a5dadb2345f14363fceb3eae2476368c2abd"
+
+[[files]]
 file = "changes.md"
-hash = "58a61b1c528ac0743f9700b75aad705c1e3f139b5f36418dcda1c5de0c9cead8"
+hash = "0bd55b0b8f304d7be6aca0d059175a8911e4082efd16ca59dedb3ea83d111184"
 
 [[files]]
 file = "config/Mekanism/common.toml"
@@ -49,10 +97,6 @@ file = "config/ad_astra.jsonc"
 hash = "4497616b9d09c26c3afaf49f0b3771728a4ba16773169c1254e7e4c3674ff8c0"
 
 [[files]]
-file = "config/ae2/common.json"
-hash = "89f5a0f747928712147d03fff0a2b1da4285bfad60ac5ffe18de665b2a0c45cf"
-
-[[files]]
 file = "config/ars_nouveau-common.toml"
 hash = "a1bcd4fa2e6a217c0fb6a4bd3b8795b0439bcc631cb482073f14a6155633c5dc"
 
@@ -65,12 +109,36 @@ file = "config/cucumber-common.toml"
 hash = "186e94e7d3f74e5d731cd69e30f8a1e0a300c3fbbfcf92dc5ddb9d8b9d96eeeb"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "22bd0e98edfb31293fbcbabe5be636c4eb8a97564b5ba214430f27ee0dedaa81"
+
+[[files]]
 file = "config/fancymenu/config.txt"
-hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
+hash = "8f8c264252679c349d4491fcba24082a0c0b593bc9acbb1416047b297b943548"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/mm_main_menu.txt"
+hash = "a03c41c4848392edcb095a56efde9e93e83fea45e6656e66e3d900ecbd07ddbd"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/machines-n-magecraft.png"
+hash = "cb6e3371aeb9161e5a24105402329457d68bbc37579fa021e9fca50afd90139b"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/pilligars-be-pillaging.png"
+hash = "12194279d85eca1c110c4e5ee1be31dcfc1fd33df134f497a4dd7e18e20d7898"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/properties.txt"
+hash = "4f126234867200fa81ff4fe5631006a79f4899a43438ab303b5c95e36271bfa0"
 
 [[files]]
 file = "config/fml.toml"
@@ -103,6 +171,10 @@ hash = "33edb60bf8bfa201030601b89d96b81decc52af6d80307ca1bd43263aeb5db01"
 [[files]]
 file = "config/powah.json5"
 hash = "d0841745b1c206f25128bcd7271d363a39958201d90edc4528203df8244e0c71"
+
+[[files]]
+file = "defaultconfigs/excavar-server.toml"
+hash = "5d4ba5e0dfa6fedbfe4b2dd56ed2698a5eb01ba3591e4fc1164c1253c0c52f55"
 
 [[files]]
 file = "global_packs/required_data/machines & magecraft/data/mm/loot_tables/hats.json"
@@ -313,8 +385,13 @@ hash = "0562b204bea7c44067bd9272ca7128994bfb2c28262864c78bf2b4b79bbbb0ac"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7df65dc51b6f723fe2c3bcb060510f89da8dbca4bb13292d48c9254b69972c96"
+hash = "8f092eb1e79c0cba82a38996191ae92406db4e120325b4838deba6b231cd0d90"
 metafile = true
 
 [[files]]
@@ -343,6 +420,11 @@ hash = "64165e55ecf339c0603ccbf7d7eaf68fdbff2cb4a8a87830f531900740246f7d"
 metafile = true
 
 [[files]]
+file = "mods/excavar.pw.toml"
+hash = "c26c83ac3a54c16c695bd6f751d87c17a5841bfc2cc3846ff5bd9c3d3abaf76f"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "74600185fce2797003ed9b2816648231b3e892d72814e9586acdd314f8d93248"
 metafile = true
@@ -364,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "72173fa63f42f18d597614b1188b16f7d46bf2a1dc116bf38b5eb57ced773969"
+hash = "0de06de13b6b0b9da2525fac68f3391900d923e0361edc0b877c3e25104f27b9"
 metafile = true
 
 [[files]]
@@ -429,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "793af1833cf85a38cde1f4beef628aead925017b9a7af1ec28701d2c50ffd347"
+hash = "9776703f4b210db830619f45b04c9b49f7fe384bc82ec4ef61bab5d0f1eb3301"
 metafile = true
 
 [[files]]
@@ -454,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "fcede0d15939bcf5cc5b8c97a21918c13f40e13042c94b34c9cf03c1235a8dc1"
+hash = "1681a2c3c2c10e00dd35ea8187fd1d0d545a1b8aee2f1b08ce3b5c19f09889a6"
 metafile = true
 
 [[files]]
@@ -469,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "bfbf0702a94ffb84a45158abccc21177e9ab4c094bad66b995bd7a7263425c84"
+hash = "ed810d6126283df7ca919ecdfaae8e78589230cfc7d6feed5ea7e7ab68138ae3"
 metafile = true
 
 [[files]]
@@ -604,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b0592ee31d3955204aa09dc7ea06b34cdea29cfc3ccfe2ef0e9745d7eb729634"
+hash = "ab87ba4bedefa87dc00d5420e70940e9b8b78c763d8b58f428367d96d5cd4b88"
 metafile = true
 
 [[files]]
