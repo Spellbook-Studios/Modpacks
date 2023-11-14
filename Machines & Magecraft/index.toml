@@ -1,56 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "art/Logo.jpg"
-hash = "00f010f5be3ea456423aa67766c11d7cb5d1fd93a4b9622b7be6149c916cfda4"
-
-[[files]]
-file = "art/Logo.xcf"
-hash = "237e52461d36b4f54627b399d6b093dc63823538add865d51363f7ccc0b738c5"
-
-[[files]]
-file = "art/Machines & Magecraft Title Bg.png"
-hash = "5fca02999ed87056f2aa991cf79378f6465ea71f94588dfe0a65479abb97a1c4"
-
-[[files]]
-file = "art/Machines & Magecraft Title Bg.xcf"
-hash = "27b02bbe3df39e38cd3ccfc8e7100714a01e9290f232e2784d1329cdd34ed53c"
-
-[[files]]
-file = "art/Machines & Magecraft Title No Bg.xcf"
-hash = "c8c158c876cc38be7ff33163a27fb9babe04243bdc2d2384274918cfc74957c6"
-
-[[files]]
-file = "art/Machines & Magecraft Title.png"
-hash = "546be79af6a648efacb6e2a0b1ba50f1500b5ec6eff9938fb6dbe2018289b949"
-
-[[files]]
-file = "art/Machines & Magecraft Title.xcf"
-hash = "8bcfcaec5a0dcec1004611a09afe5b6f5558745098bfdb248e26ed5ffcd330b9"
-
-[[files]]
-file = "art/item_plate_dark_steel.xcf"
-hash = "c4152574da4cb022ca536aeaae55b2ee8f68633a61d1429d9a753221a6c798c8"
-
-[[files]]
-file = "art/item_stack_copper_ingot.xcf"
-hash = "bdf2d00e67378590e6ec249de26d25182c3f25fa3f9ea546b62a8e3ac7c6f175"
-
-[[files]]
-file = "art/item_stack_dark_steel_ingot.xcf"
-hash = "b568228bf6d7345a443bcb53014ab65e242a2df7f86a03f0ca73fff149fc2848"
-
-[[files]]
-file = "art/item_stack_iron_ingot.xcf"
-hash = "1d4119120f5a31d32bbc6929ebbf61f035d81b685a28cf17edc434e759e4ef13"
-
-[[files]]
 file = "art/machines_magecraft_title_no_bg.png"
 hash = "63e9b532a172d80386ec492b5464a5dadb2345f14363fceb3eae2476368c2abd"
 
 [[files]]
 file = "changes.md"
-hash = "0bd55b0b8f304d7be6aca0d059175a8911e4082efd16ca59dedb3ea83d111184"
+hash = "5cc657fc732d4bb8c404beda2151dc1aa22e8111a62c71158d5eb818512655fa"
 
 [[files]]
 file = "config/Mekanism/common.toml"

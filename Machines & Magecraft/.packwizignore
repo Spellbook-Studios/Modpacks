@@ -8,6 +8,5 @@ modlist.md
 .packwizml.cache
 
 # Ignore art
-.art/
-.art/machines_magecraft_title_no_bg
-.art/screenshots/
+art/
+!art/machines_magecraft_title_no_bg.png

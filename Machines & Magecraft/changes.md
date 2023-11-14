@@ -1,3 +1,6 @@
+## 1.0.0a-beta9
+ * Fixed upload size
+
 ## 1.0.0a-beta8
 ### Mods
  * Found an alternative to FTB Ultimine / Added Excavar-1.20.1-3.1.0.jar
