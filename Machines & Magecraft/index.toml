@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LISCENSE.txt"
+hash = "608781f46e03389c2eefa9fa52bbd2bff61f7936771486f10d0fd3eb66033d7b"
+
+[[files]]
 file = "art/machines_magecraft_title_no_bg.png"
 hash = "63e9b532a172d80386ec492b5464a5dadb2345f14363fceb3eae2476368c2abd"
 
 [[files]]
 file = "changes.md"
-hash = "5cc657fc732d4bb8c404beda2151dc1aa22e8111a62c71158d5eb818512655fa"
+hash = "3749f3ada0e58b53226ef1b0de83199f2081c75e0775282fc70d5865ca600084"
 
 [[files]]
 file = "config/Mekanism/common.toml"
@@ -70,7 +74,7 @@ hash = "22bd0e98edfb31293fbcbabe5be636c4eb8a97564b5ba214430f27ee0dedaa81"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "8f8c264252679c349d4491fcba24082a0c0b593bc9acbb1416047b297b943548"
+hash = "65f089fa943872a1009d31f980137ba10a78c93fae572207e9df7f5fc26d866b"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -343,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "b70eb5f8a98614a04072e7e77b8a5118090422710acc671cc97ec6ad57830a70"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LISCENSE.txt"
-hash = "9b6daade279ed3247a31c0c598f7cdd7e2fc0e10eb4526edbc3399147c365d56"
+hash = "608781f46e03389c2eefa9fa52bbd2bff61f7936771486f10d0fd3eb66033d7b"
 
 [[files]]
 file = "config/WynnLib/Equipments.json"
