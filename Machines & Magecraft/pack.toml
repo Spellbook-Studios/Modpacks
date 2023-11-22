@@ -1,12 +1,12 @@
 name = "Machines & Magecraft"
 author = "Spellbook Studios"
-version = "1.0.1a"
+version = "1.0.1b"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ff90d7b37e337448e02937d03d10b27a8c53b7ce826763b0a6a0ae9c44604c50"
+hash = "93d076188dd311560a1e0e13f9a443eaeb1c8faa0ecf72876c82fb60a8f71d95"
 
 [versions]
 minecraft = "1.20.1"

@@ -10,7 +10,7 @@ hash = "63e9b532a172d80386ec492b5464a5dadb2345f14363fceb3eae2476368c2abd"
 
 [[files]]
 file = "changes.md"
-hash = "e385f7e2af114916451bd8985cb17ba42a8422528007d0fd9bffe8240007e191"
+hash = "dc0be51628c90a4f190359df62ce6e18bb5262c476c49a6cf7c629abfe418e65"
 
 [[files]]
 file = "config/Mekanism/common.toml"
@@ -147,6 +147,11 @@ hash = "56640faebe498184d573ca910b1ee4b2581c5e547058d024195ef1c40ba658b4"
 [[files]]
 file = "global_packs/required_resources/incendium-optional-resourcepack.pw.toml"
 hash = "ef7eeaf34f1110b22e75a1bcd43ccb9c23bc1ffadf5952b222912d900a535bf8"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/shield-corrections.pw.toml"
+hash = "71737dd839848760fc3fa6024f7d63ea59432f4a9775beb4e3c88e7ce3085490"
 metafile = true
 
 [[files]]
@@ -421,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "0de06de13b6b0b9da2525fac68f3391900d923e0361edc0b877c3e25104f27b9"
+hash = "be8b6814ede9c36e0ba5fb78bcbc307bf640798157b51f9b2ac318b583f67153"
 metafile = true
 
 [[files]]
@@ -486,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "23d21acfb6b0ad5e46d81013a6f42e1dfa8bc985cb2ae2a53db43ecad8594b84"
+hash = "3f1c82adf231afb68ea327902c71c0536cd80e1fec0252fd4c46af8a62f6c7e2"
 metafile = true
 
 [[files]]
@@ -561,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "79306ab2a14ec4cfc1e0f50f67f0140aabcdb9c9c943fe1605f12f5eebfa20a5"
+hash = "ea490dee19d537125e3095f7919f9baf2baffc1f6c66d0c512c676d6131e4553"
 metafile = true
 
 [[files]]
@@ -576,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "52c410eec403ed2cc909721bc7f6b58a2298cb964cb7735d2fed42113bfad032"
+hash = "01aa9f6272b4d30409cffe8b638aaf6d577c6859c2f8531e891ac4eae841658f"
 metafile = true
 
 [[files]]
@@ -591,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "1ef3bfa6556e468a3a2a022b6249c0b3e285bf939ea75e6809bf5b7673d8246b"
+hash = "53a35a5819c52c1d66bc96bf83a5865c04d8ca21c5a2a15aac64ae1992e5af40"
 metafile = true
 
 [[files]]
@@ -661,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "41a475ef957734dab15816e02b241c1718c57773ceaf316da685fa6a5cb910c6"
+hash = "8113b2de2059b03eb9c4f03a6551f3e1bddac84222082e4f8c4783449790b3c5"
 metafile = true
 
 [[files]]
@@ -681,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/tome-of-blood-rebirth.pw.toml"
-hash = "a5dfc3f38a655efb97bd25119a27e19f4457eb83aa34e1c0abe9df88f88c95f5"
+hash = "e6fec2037e0bab06d1d07ca8ed046014a0ea234a3712e4fdbf60dafc84d00ac1"
 metafile = true
 
 [[files]]
@@ -695,8 +700,13 @@ hash = "93b938744f35863325bd3fc9a514675feb61b2156fa6f291ec6eec9d53c9016f"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
-hash = "bd5e336d7121e14397108b5e05a70b3ca478d12df498a14ee4a877676959d8c1"
+hash = "e82b9b4a583f1665e7f44eb51cc5b23de9a6397b692d03e608cf92aab545b3fe"
 metafile = true
 
 [[files]]
@@ -731,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "ece079201b462e393a9a513c459125724d591190df78773b89651525d05054e2"
+hash = "107b8b43e9fdd45cc38780875db8e4b976fadacc261f45cb39addd4e0ddb576a"
 metafile = true
 
 [[files]]

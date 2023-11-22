@@ -1,3 +1,18 @@
+## 1.0.1b
+### Mods
+* Added "WorldEdit" (worldedit-mod-7.2.15.jar)
+### Other
+* Added shield corrections
+### Updates
+* Patchouli: Will not be updated, as it currently doesn't support neoforge on newers versions
+* Supplementaries: supplementaries-1.20-2.6.29.jar -> supplementaries-1.20-2.6.31.jar
+* Tome of Blood: Rebirth: tomeofblood-1.20.1-0.4.0-all.jar -> tomeofblood-1.20.1-0.4.1-all.jar
+* WTHIT: wthit-forge-8.4.1.jar -> wthit-forge-8.4.3.jar
+* Puzzles Lib: PuzzlesLib-v8.1.8-1.20.1-Forge.jar -> PuzzlesLib-v8.1.9-1.20.1-Forge.jar
+* Fusion (Connected Textures): fusion-1.1.0a-forge-mc1.20.1.jar -> fusion-1.1.0b-forge-mc1.20.1.jar
+* Occultism: occultism-1.20.1-1.89.1.jar -> occultism-1.20.1-1.90.0.jar
+* BSL Shaders: BSL_v8.2.07.zip -> BSL_v8.2.07.1.zip
+* Kotlin for Forge: kotlinforforge-4.6.2-all.jar -> kotlinforforge-4.7.0-all.jar
 ## 1.0.1a
 ### Mods
 * Added "Connected Glass" (connectedglass-1.1.9-forge-mc1.20.1.jar)
