@@ -1,13 +1,13 @@
 name = "Update ME!"
-filename = "update-me-1.0b.jar"
+filename = "update-me-1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9xIIYjBA/versions/8fKYScx5/update-me-1.0b.jar"
+url = "https://cdn.modrinth.com/data/9xIIYjBA/versions/ntyLzMjq/update-me-1.1.jar"
 hash-format = "sha1"
-hash = "76fc9806893c6e8702b19aa33022b35b206a8ddf"
+hash = "53daeeac4a876cd69b14b06c7897425d8ffa38fb"
 
 [update]
 [update.modrinth]
 mod-id = "9xIIYjBA"
-version = "8fKYScx5"
+version = "ntyLzMjq"

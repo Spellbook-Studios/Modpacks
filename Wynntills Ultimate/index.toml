@@ -250,7 +250,7 @@ hash = "a32c52228ca930779d73429e2e0732470e35610c39fbb828cf3b5c51986eebaa"
 
 [[files]]
 file = "config/update_me.json5"
-hash = "612a19fab92824e3d15daa9a805700bea03d079ce9fc2d3f4dcdce932c8ae324"
+hash = "0d806fc8b8e188a69e4d6ea4a9bd3a1cf068b9ad7fc630ac1f5d59a80610360c"
 
 [[files]]
 file = "config/visuality.json"
@@ -361,6 +361,11 @@ hash = "f887b988eab34f06e2c1ddc8c61e04824301262d5e366e4c6f482f673bc9b143"
 metafile = true
 
 [[files]]
+file = "mods/fuy_gg.pw.toml"
+hash = "6b36021fe28c1a67a7a2b49b49990a5ba3b48acf5609e5db1badac822bbb63ef"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
@@ -407,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-multiplayer-menu.pw.toml"
-hash = "1afb44587fdd1d6d8a11810706181ee7358de8cbaf02876391391cccb7e9b4ad"
+hash = "8afd335f50158b4866cf1fe61991e221e68a46ea03d2d69a4ba316aa491472e6"
 metafile = true
 
 [[files]]
@@ -442,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/update-me.pw.toml"
-hash = "cf39edd6bc93bdccb012b7aa7741d5fd592f1c969dbab93cfd0d24e63563b190"
+hash = "ae7963bb2bccbd05c4c5535fcb21ee158a07b0c5840f501d2461a3296675d646"
 metafile = true
 
 [[files]]
@@ -452,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "b4766e969e29bc4498f8b271376f25bc3312433bc2b5654365bf2ab7b5bdd07a"
+hash = "a82aee3d9cee741d27c8525427ffb2f00149a3ffed80e803680b24a17648f03a"
 metafile = true
 
 [[files]]
@@ -489,4 +494,4 @@ metafile = true
 
 [[files]]
 file = "version-text/VERSION"
-hash = "41e1d21e94411d7ea3100139f09d1065939827b7fcdf34bf66484aed24c3c313"
+hash = "41587ea1713d3bf12da3b6fc68818db489ba7fa7a7458198cea111009132f2c9"
