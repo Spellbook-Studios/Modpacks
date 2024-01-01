@@ -1,0 +1,13 @@
+name = "The One Probe"
+filename = "theoneprobe-1.20.1-10.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eyw0UxEx/versions/YVbSM3mb/theoneprobe-1.20.1-10.0.0.jar"
+hash-format = "sha1"
+hash = "2a50fb0c77282db367e8ddd7a84a3292ba01159b"
+
+[update]
+[update.modrinth]
+mod-id = "Eyw0UxEx"
+version = "YVbSM3mb"

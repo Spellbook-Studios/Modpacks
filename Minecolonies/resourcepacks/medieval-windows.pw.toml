@@ -1,0 +1,13 @@
+name = "Medieval Windows"
+filename = "Medieval Windows.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "246be6ca290879e5694ec956c2deab95cf3d5845"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4967308
+project-id = 864965

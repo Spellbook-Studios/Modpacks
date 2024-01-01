@@ -1,0 +1,13 @@
+name = "Minecolonies"
+author = "Spellbook Studios"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b3691de9751cc07d16fcfe6a736a14a2ec7f46c19f1bcf63fd108612071fb962"
+
+[versions]
+forge = "47.2.18"
+minecraft = "1.20.1"
