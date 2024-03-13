@@ -1,13 +1,13 @@
 name = "fuy.gg"
-filename = "fuy_gg-1.3.2.jar"
+filename = "fuy_gg-1.3.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EMQzFaJ1/versions/S2Szd3PZ/fuy_gg-1.3.2.jar"
+url = "https://cdn.modrinth.com/data/EMQzFaJ1/versions/7XSk89tC/fuy_gg-1.3.7.jar"
 hash-format = "sha1"
-hash = "09a7820ddc9ebf62c29e4a0823be92c2e9c78976"
+hash = "af896625585cd5c1d98c0b2cd96c23698dc6b939"
 
 [update]
 [update.modrinth]
 mod-id = "EMQzFaJ1"
-version = "S2Szd3PZ"
+version = "7XSk89tC"
